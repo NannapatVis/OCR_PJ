@@ -1,2 +1,2 @@
-Page 1: The names Joe Bloggs or John Smith are used in the UK instead, as well as in Australia and 
-New Zealand. Public, known in Great Britain as Joe Public, John Smith or Joe Bloggs.
+Page 1: The names Joe Bloggs or **John Smith** are used in the UK instead, as well as in Australia and 
+New Zealand. Public, known in Great Britain as Joe Public, **John Smith** or Joe Bloggs.

@@ -8,7 +8,7 @@ import time
 import os
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.styles import getSampleStyleSheet
-from reportlab.platypus import SimpleDocTemplate, Paragraph
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 
 # Set the path to Tesseract OCR
 tess.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
@@ -35,6 +35,8 @@ if not os.path.exists(ocr_image_folder):
 
 # Search for pages that contain any of the keywords (case-insensitive)
 keyword_pages = []
+keyword_counts = {}  # Dictionary to store keyword occurrences by page
+
 for page_num, page in enumerate(pdf.pages):
     page_text = page.extract_text()
     
@@ -47,6 +49,9 @@ for page_num, page in enumerate(pdf.pages):
     if page_text:
         for keyword in keywords:
             if re.search(rf'\b{keyword}\b', page_text, re.IGNORECASE):
+                if page_num not in keyword_counts:
+                    keyword_counts[page_num] = 0
+                keyword_counts[page_num] += len(re.findall(rf'\b{keyword}\b', page_text, re.IGNORECASE))
                 keyword_pages.append(page_num)
                 break  # Stop once a keyword is found in the page
 
@@ -104,6 +109,7 @@ print(f"Processing time: {processing_time:.2f} seconds")
 
 # Extract sentences that contain the keywords and include page numbers
 pages_sentences = []
+pages_sentences_txt = []  # This list will store sentences with ** highlighting for the .txt file
 for page_num, page in enumerate(pdf.pages):
     page_text = page.extract_text()
     
@@ -123,10 +129,21 @@ for page_num, page in enumerate(pdf.pages):
                 formatted_sentence = f'Page {page_num + 1}: ' + ' '.join(filtered_sentences)
                 pages_sentences.append(formatted_sentence)
 
-# Save the sentences containing the keywords to a text file
-text = '\n'.join(pages_sentences)
+                # For the .txt file, add ** around the keywords
+                highlighted_sentence = formatted_sentence
+                for keyword in keywords:
+                    highlighted_sentence = re.sub(rf'\b{keyword}\b', f'**{keyword}**', highlighted_sentence, flags=re.IGNORECASE)
+                pages_sentences_txt.append(highlighted_sentence)
+
+# Save the sentences containing the keywords to a text file with ** highlighting
+text = '\n'.join(pages_sentences_txt)
 with Path(os.path.join(output_folder, 'keyword_sentences.txt')).open(mode='w', encoding='utf-8') as output_file_3:
     output_file_3.write(text)
+
+# Create a summary for keyword occurrences
+summary = "Keyword Summary:\n"
+for page_num, count in keyword_counts.items():
+    summary += f"Page {page_num + 1}: {count} occurrence(s)\n"
 
 # Convert keyword sentences to PDF without highlights (normal text)
 pdf_file = os.path.join(output_folder, 'keyword_sentences.pdf')
@@ -134,7 +151,19 @@ doc = SimpleDocTemplate(pdf_file, pagesize=letter)
 styles = getSampleStyleSheet()
 story = []
 
-# Create PDF content from the keyword sentences
+# Add keyword summary to the PDF document
+story.append(Paragraph("Summary of Keywords:", styles['Heading2']))
+story.append(Spacer(1, 12))
+
+for page_num, count in keyword_counts.items():
+    summary_line = f"Page {page_num + 1}: {count} occurrence(s)"
+    story.append(Paragraph(summary_line, styles['BodyText']))
+    story.append(Spacer(1, 12))
+
+# Add a spacer before adding the actual keyword sentences
+story.append(Spacer(1, 24))
+
+# Create PDF content from the keyword sentences (without **)
 for line in pages_sentences:
     story.append(Paragraph(line, styles['BodyText']))
 
@@ -148,4 +177,4 @@ for file in os.listdir(ocr_image_folder):
         os.remove(file_path)
 os.rmdir(ocr_image_folder)
 
-print("Keyword sentences saved to PDF.")
+print("Keyword sentences saved to PDF and text files.")
