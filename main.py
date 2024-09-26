@@ -12,8 +12,6 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.colors import red
 import pdfplumber  # ใช้ pdfplumber แทน PyPDF2
-import matplotlib.pyplot as plt  # นำเข้าไลบรารีสำหรับสร้างกราฟ
-from matplotlib import font_manager as fm  # นำเข้าไลบรารีจัดการฟอนต์
 
 # Set the path to Tesseract OCR
 tess.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
@@ -100,7 +98,7 @@ doc = SimpleDocTemplate(pdf_file, pagesize=letter)
 story = []
 
 # Add keyword summary to the PDF document
-story.append(Paragraph("Summary of Keywords:", styles['Heading2']))
+story.append(Paragraph(f"Summary of Keywords: {', '.join(keywords)}", styles['Heading2']))  # เพิ่มการแสดง keyword
 story.append(Spacer(1, 12))
 
 for page_num, count in keyword_counts.items():
@@ -113,11 +111,13 @@ story.append(Spacer(1, 24))
 
 # Highlight keywords in red when creating PDF content from the keyword sentences
 for line in pages_sentences:
+    # Remove paragraph information from 'formatted_sentence' but keep the page number
+    clean_line = re.sub(r'Paragraph \d+: ', '', line)  # Remove only paragraph info but keep the page number
     for keyword in keywords:
         # Case-insensitive search but retain the original case for output
         pattern = re.compile(rf'({re.escape(keyword)})', re.IGNORECASE)
-        line = pattern.sub(r'<font color="red"><b>\1</b></font>', line)  # Retain original case
-    story.append(Paragraph(line, styles['BodyText']))
+        clean_line = pattern.sub(r'<font color="red"><b>\1</b></font>', clean_line)  # Retain original case
+    story.append(Paragraph(clean_line, styles['BodyText']))
 
 # Build the PDF document
 doc.build(story)
@@ -129,27 +129,9 @@ for file in os.listdir(ocr_image_folder):
         os.remove(file_path)
 os.rmdir(ocr_image_folder)
 
-# ตั้งค่าฟอนต์ภาษาไทยสำหรับกราฟ matplotlib
-font_path = r'C:\Users\aaa\Desktop\OCR\Font\THSarabunNew.ttf'  # ใส่พาธของฟอนต์
-font_prop = fm.FontProperties(fname=font_path)
-
-# สร้างกราฟเส้นจากข้อมูลการเกิดคีย์เวิร์ด
-pages = list(keyword_counts.keys())
-counts = list(keyword_counts.values())
-
-plt.figure(figsize=(10, 5))
-plt.plot(pages, counts, marker='o')
-plt.title('จำนวนการเกิดคีย์เวิร์ดตามหน้า', fontproperties=font_prop)  # ตั้งค่าฟอนต์ไทยในหัวข้อ
-plt.xlabel('หมายเลขหน้า', fontproperties=font_prop)  # ตั้งค่าฟอนต์ไทยในป้ายแกน X
-plt.ylabel('จำนวนการเกิดคีย์เวิร์ด', fontproperties=font_prop)  # ตั้งค่าฟอนต์ไทยในป้ายแกน Y
-plt.xticks(ticks=pages[::2], labels=pages[::2], fontproperties=font_prop, rotation=45)  # แสดงเฉพาะหน้าคู่
-plt.grid()
-plt.savefig(os.path.join(output_folder, 'keyword_analysis.png'))  # บันทึกกราฟเป็นไฟล์ภาพ
-plt.show()  # แสดงกราฟ
-
 # Calculate and print the processing time
 end_time = time.time()
 processing_time = end_time - start_time
 print(f"Processing completed in {processing_time:.2f} seconds.")
 
-print("Keyword sentences saved to PDF and text files.") 
+print("Keyword sentences saved to PDF and text files.")
