@@ -1,5 +1,4 @@
 import fitz  # PyMuPDF
-from PyPDF2 import PdfReader, PdfWriter
 from pdf2image import convert_from_path
 import pytesseract as tess
 from pathlib import Path
@@ -12,19 +11,32 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.colors import red
+import pdfplumber  # ใช้ pdfplumber แทน PyPDF2
+import matplotlib.pyplot as plt  # นำเข้าไลบรารีสำหรับสร้างกราฟ
+from matplotlib import font_manager as fm  # นำเข้าไลบรารีจัดการฟอนต์
 
 # Set the path to Tesseract OCR
 tess.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
-# Keywords to search and highlight (including Thai keywords)
-keywords = ['miss']  # Example of a Thai keyword
+# Default keywords (can be left empty if you want to force input from Terminal)
+keywords = ['']  # Example of pre-defined keyword (leave empty to prompt for input)
+
+# Check if keywords are empty or contain only empty strings
+if not keywords or all(kw.strip() == '' for kw in keywords):
+    # Prompt the user for keywords if no valid keywords are provided in the code
+    user_input = input("Enter keywords separated by commas (required): ")
+    
+    # Continue prompting until valid input is provided
+    while not user_input.strip():
+        user_input = input("No keywords entered. Please enter at least one keyword: ")
+    
+    keywords = [kw.strip() for kw in user_input.split(',')]
 
 # Start timer for processing time
 start_time = time.time()
 
 # Load PDF for text extraction and page search
-pdf_path = pdf_path = r'Ex\3.-The-Adventures-of-Sherlock-Holmes-Author-Arthur-Conan-Doyle.pdf'
-pdf = PdfReader(pdf_path)
+pdf_path = r'Ex\3.-The-Adventures-of-Sherlock-Holmes-Author-Arthur-Conan-Doyle.pdf'
 
 # Create a folder to store results
 output_folder = 'result OCR'
@@ -36,57 +48,38 @@ ocr_image_folder = os.path.join(output_folder, 'ocr_images')
 if not os.path.exists(ocr_image_folder):
     os.makedirs(ocr_image_folder)
 
-# Search for pages that contain any of the keywords (case-insensitive)
-keyword_pages = []
+# Search for keywords and store relevant paragraphs
 keyword_counts = {}  # Dictionary to store keyword occurrences by page
-
-for page_num, page in enumerate(pdf.pages):
-    page_text = page.extract_text()
-
-    # If page text extraction fails, fallback to OCR
-    if not page_text:
-        images = convert_from_path(pdf_path, first_page=page_num + 1, last_page=page_num + 1, output_folder=ocr_image_folder)
-        if images:
-            page_text = tess.image_to_string(images[0], lang='tha+eng')
-
-    if page_text:
-        # Split text by paragraphs using newline characters
-        paragraphs = page_text.split('\n\n')  # Adjust to your PDF's formatting
-        for para_num, paragraph in enumerate(paragraphs):
-            for keyword in keywords:
-                if re.search(rf'\b{re.escape(keyword)}\b', paragraph, re.IGNORECASE):
-                    if page_num not in keyword_counts:
-                        keyword_counts[page_num] = 0
-                    keyword_counts[page_num] += len(re.findall(rf'\b{re.escape(keyword)}\b', paragraph, re.IGNORECASE))
-                    keyword_pages.append(page_num)
-
-# Save the sentences containing the keywords to a text file with ** highlighting
 pages_sentences = []
 pages_sentences_txt = []  # This list will store sentences with ** highlighting for the .txt file
 
-for page_num, page in enumerate(pdf.pages):
-    page_text = page.extract_text()
+with pdfplumber.open(pdf_path) as pdf:
+    for page_num, page in enumerate(pdf.pages):
+        page_text = page.extract_text()
 
-    # Use OCR if text extraction fails
-    if not page_text:
-        images = convert_from_path(pdf_path, first_page=page_num + 1, last_page=page_num + 1, output_folder=ocr_image_folder)
-        if images:
-            page_text = tess.image_to_string(images[0], lang='tha+eng')
+        # If page text extraction fails, fallback to OCR
+        if not page_text:
+            images = convert_from_path(pdf_path, first_page=page_num + 1, last_page=page_num + 1, output_folder=ocr_image_folder)
+            if images:
+                page_text = tess.image_to_string(images[0], lang='tha+eng')
 
-    if page_text:
-        # Split text by paragraphs
-        paragraphs = page_text.split('\n\n')
-        for para_num, paragraph in enumerate(paragraphs):
-            for keyword in keywords:
-                if re.search(rf'\b{re.escape(keyword)}\b', paragraph, re.IGNORECASE):
-                    formatted_sentence = f'Page {page_num + 1}, Paragraph {para_num + 1}: {paragraph.strip()}'
-                    pages_sentences.append(formatted_sentence)
+        if page_text:
+            # Split text into paragraphs
+            paragraphs = page_text.split('\n\n')  # Adjust to your PDF's formatting
+            for para_num, paragraph in enumerate(paragraphs):
+                for keyword in keywords:
+                    if re.search(rf'\b{re.escape(keyword)}\b', paragraph, re.IGNORECASE):
+                        if page_num not in keyword_counts:
+                            keyword_counts[page_num] = 0
+                        keyword_counts[page_num] += len(re.findall(rf'\b{re.escape(keyword)}\b', paragraph, re.IGNORECASE))
+                        formatted_sentence = f'Page {page_num + 1}, Paragraph {para_num + 1}: {paragraph.strip()}'
+                        pages_sentences.append(formatted_sentence)
 
-                    # For the .txt file, add ** around the keywords
-                    highlighted_sentence = formatted_sentence
-                    for keyword in keywords:
-                        highlighted_sentence = re.sub(rf'\b{re.escape(keyword)}\b', f'**{keyword}**', highlighted_sentence, flags=re.IGNORECASE)
-                    pages_sentences_txt.append(highlighted_sentence)
+                        # For the .txt file, add ** around the keywords
+                        highlighted_sentence = formatted_sentence
+                        for keyword in keywords:
+                            highlighted_sentence = re.sub(rf'\b{re.escape(keyword)}\b', f'**{keyword}**', highlighted_sentence, flags=re.IGNORECASE)
+                        pages_sentences_txt.append(highlighted_sentence)
 
 # Save the sentences containing the keywords to a text file with ** highlighting
 text = '\n'.join(pages_sentences_txt)
@@ -101,10 +94,7 @@ styles = getSampleStyleSheet()
 styles['BodyText'].fontName = 'THSarabunNew'
 styles['BodyText'].fontSize = 12
 
-# Create a red-colored style for keywords
-red_keyword_style = ParagraphStyle('RedKeyword', parent=styles['BodyText'], textColor=red)
-
-# Create PDF file
+# Create a PDF file
 pdf_file = os.path.join(output_folder, 'keyword_sentences.pdf')
 doc = SimpleDocTemplate(pdf_file, pagesize=letter)
 story = []
@@ -122,12 +112,11 @@ for page_num, count in keyword_counts.items():
 story.append(Spacer(1, 24))
 
 # Highlight keywords in red when creating PDF content from the keyword sentences
-# Highlight keywords in red when creating PDF content from the keyword sentences
 for line in pages_sentences:
     for keyword in keywords:
         # Case-insensitive search but retain the original case for output
         pattern = re.compile(rf'({re.escape(keyword)})', re.IGNORECASE)
-        line = pattern.sub(r'<font color="red">\1</font>', line)  # Retain original case
+        line = pattern.sub(r'<font color="red"><b>\1</b></font>', line)  # Retain original case
     story.append(Paragraph(line, styles['BodyText']))
 
 # Build the PDF document
@@ -140,9 +129,27 @@ for file in os.listdir(ocr_image_folder):
         os.remove(file_path)
 os.rmdir(ocr_image_folder)
 
+# ตั้งค่าฟอนต์ภาษาไทยสำหรับกราฟ matplotlib
+font_path = r'C:\Users\aaa\Desktop\OCR\Font\THSarabunNew.ttf'  # ใส่พาธของฟอนต์
+font_prop = fm.FontProperties(fname=font_path)
+
+# สร้างกราฟเส้นจากข้อมูลการเกิดคีย์เวิร์ด
+pages = list(keyword_counts.keys())
+counts = list(keyword_counts.values())
+
+plt.figure(figsize=(10, 5))
+plt.plot(pages, counts, marker='o')
+plt.title('จำนวนการเกิดคีย์เวิร์ดตามหน้า', fontproperties=font_prop)  # ตั้งค่าฟอนต์ไทยในหัวข้อ
+plt.xlabel('หมายเลขหน้า', fontproperties=font_prop)  # ตั้งค่าฟอนต์ไทยในป้ายแกน X
+plt.ylabel('จำนวนการเกิดคีย์เวิร์ด', fontproperties=font_prop)  # ตั้งค่าฟอนต์ไทยในป้ายแกน Y
+plt.xticks(ticks=pages[::2], labels=pages[::2], fontproperties=font_prop, rotation=45)  # แสดงเฉพาะหน้าคู่
+plt.grid()
+plt.savefig(os.path.join(output_folder, 'keyword_analysis.png'))  # บันทึกกราฟเป็นไฟล์ภาพ
+plt.show()  # แสดงกราฟ
+
 # Calculate and print the processing time
 end_time = time.time()
 processing_time = end_time - start_time
 print(f"Processing completed in {processing_time:.2f} seconds.")
 
-print("Keyword sentences saved to PDF and text files.")
+print("Keyword sentences saved to PDF and text files.") 
