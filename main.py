@@ -7,24 +7,27 @@ import re
 import time
 import os
 from reportlab.lib.pagesizes import letter
-from reportlab.lib.styles import getSampleStyleSheet
+from reportlab.pdfbase.ttfonts import TTFont
+from reportlab.pdfbase import pdfmetrics
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
+from reportlab.lib.colors import red
 
 # Set the path to Tesseract OCR
 tess.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
-# Keywords to search and highlight
-keywords = ['John Smith']
+# Keywords to search and highlight (including Thai keywords)
+keywords = ['miss']  # Example of a Thai keyword
 
 # Start timer for processing time
 start_time = time.time()
 
 # Load PDF for text extraction and page search
-pdf_path = 'example.pdf'
+pdf_path = pdf_path = r'Ex\3.-The-Adventures-of-Sherlock-Holmes-Author-Arthur-Conan-Doyle.pdf'
 pdf = PdfReader(pdf_path)
 
 # Create a folder to store results
-output_folder = 'output_files'
+output_folder = 'result OCR'
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
@@ -39,116 +42,71 @@ keyword_counts = {}  # Dictionary to store keyword occurrences by page
 
 for page_num, page in enumerate(pdf.pages):
     page_text = page.extract_text()
-    
+
     # If page text extraction fails, fallback to OCR
     if not page_text:
         images = convert_from_path(pdf_path, first_page=page_num + 1, last_page=page_num + 1, output_folder=ocr_image_folder)
         if images:
-            page_text = tess.image_to_string(images[0], lang='eng')
-    
+            page_text = tess.image_to_string(images[0], lang='tha+eng')
+
     if page_text:
-        for keyword in keywords:
-            if re.search(rf'\b{keyword}\b', page_text, re.IGNORECASE):
-                if page_num not in keyword_counts:
-                    keyword_counts[page_num] = 0
-                keyword_counts[page_num] += len(re.findall(rf'\b{keyword}\b', page_text, re.IGNORECASE))
-                keyword_pages.append(page_num)
-                break  # Stop once a keyword is found in the page
+        # Split text by paragraphs using newline characters
+        paragraphs = page_text.split('\n\n')  # Adjust to your PDF's formatting
+        for para_num, paragraph in enumerate(paragraphs):
+            for keyword in keywords:
+                if re.search(rf'\b{re.escape(keyword)}\b', paragraph, re.IGNORECASE):
+                    if page_num not in keyword_counts:
+                        keyword_counts[page_num] = 0
+                    keyword_counts[page_num] += len(re.findall(rf'\b{re.escape(keyword)}\b', paragraph, re.IGNORECASE))
+                    keyword_pages.append(page_num)
 
-# Save pages that contain any of the keywords to a new PDF file
-pdf_writer = PdfWriter()
-for page_num in keyword_pages:
-    page_object = PdfReader(pdf_path).pages[page_num]
-    pdf_writer.add_page(page_object)
-
-with Path(os.path.join(output_folder, 'keyword_pages.pdf')).open(mode='wb') as output_file_2:
-    pdf_writer.write(output_file_2)
-
-# Use PyMuPDF to highlight the keywords in the new PDF
-pdf_document = fitz.open(pdf_path)
-highlighted_pdf_path = os.path.join(output_folder, 'highlighted_keyword_pages.pdf')
-highlighted_pdf_document = fitz.open()
-
-for page_num in keyword_pages:
-    # Load the page and create a new page in the highlighted PDF
-    page = pdf_document.load_page(page_num)
-    highlighted_page = highlighted_pdf_document.new_page(width=page.rect.width, height=page.rect.height)
-    
-    # Copy the content from the original page
-    highlighted_page.show_pdf_page(highlighted_page.rect, pdf_document, page_num)
-    
-    # Highlight the instances of the keywords (case-insensitive)
-    page_text = page.get_text()
-    if not page_text:  # If no text is extracted, use OCR for highlighting
-        images = convert_from_path(pdf_path, first_page=page_num + 1, last_page=page_num + 1, output_folder=ocr_image_folder)
-        if images:
-            page_text = tess.image_to_string(images[0], lang='eng')
-    
-    for keyword in keywords:
-        search_term = keyword.lower()
-        start = 0
-        while True:
-            start = page_text.lower().find(search_term, start)
-            if start == -1:
-                break
-            end = start + len(search_term)
-            rects = page.search_for(page_text[start:end])
-            for rect in rects:
-                highlighted_page.add_highlight_annot(rect)
-            start = end
-
-# Save the highlighted PDF with the keywords highlighted
-highlighted_pdf_document.save(highlighted_pdf_path)
-highlighted_pdf_document.close()
-pdf_document.close()
-
-# Capture processing time
-end_time = time.time()
-processing_time = end_time - start_time
-print(f"Processing time: {processing_time:.2f} seconds")
-
-# Extract sentences that contain the keywords and include page numbers
+# Save the sentences containing the keywords to a text file with ** highlighting
 pages_sentences = []
 pages_sentences_txt = []  # This list will store sentences with ** highlighting for the .txt file
+
 for page_num, page in enumerate(pdf.pages):
     page_text = page.extract_text()
-    
+
     # Use OCR if text extraction fails
     if not page_text:
         images = convert_from_path(pdf_path, first_page=page_num + 1, last_page=page_num + 1, output_folder=ocr_image_folder)
         if images:
-            page_text = tess.image_to_string(images[0], lang='eng')
+            page_text = tess.image_to_string(images[0], lang='tha+eng')
 
     if page_text:
-        for keyword in keywords:
-            # Find and extract sentences with the keywords
-            sentences = re.split(r'(?<=[.!?])\s+', page_text)
-            filtered_sentences = [sentence.strip() for sentence in sentences if re.search(rf'\b{keyword}\b', sentence, re.IGNORECASE)]
-            
-            if filtered_sentences:
-                formatted_sentence = f'Page {page_num + 1}: ' + ' '.join(filtered_sentences)
-                pages_sentences.append(formatted_sentence)
+        # Split text by paragraphs
+        paragraphs = page_text.split('\n\n')
+        for para_num, paragraph in enumerate(paragraphs):
+            for keyword in keywords:
+                if re.search(rf'\b{re.escape(keyword)}\b', paragraph, re.IGNORECASE):
+                    formatted_sentence = f'Page {page_num + 1}, Paragraph {para_num + 1}: {paragraph.strip()}'
+                    pages_sentences.append(formatted_sentence)
 
-                # For the .txt file, add ** around the keywords
-                highlighted_sentence = formatted_sentence
-                for keyword in keywords:
-                    highlighted_sentence = re.sub(rf'\b{keyword}\b', f'**{keyword}**', highlighted_sentence, flags=re.IGNORECASE)
-                pages_sentences_txt.append(highlighted_sentence)
+                    # For the .txt file, add ** around the keywords
+                    highlighted_sentence = formatted_sentence
+                    for keyword in keywords:
+                        highlighted_sentence = re.sub(rf'\b{re.escape(keyword)}\b', f'**{keyword}**', highlighted_sentence, flags=re.IGNORECASE)
+                    pages_sentences_txt.append(highlighted_sentence)
 
 # Save the sentences containing the keywords to a text file with ** highlighting
 text = '\n'.join(pages_sentences_txt)
 with Path(os.path.join(output_folder, 'keyword_sentences.txt')).open(mode='w', encoding='utf-8') as output_file_3:
     output_file_3.write(text)
 
-# Create a summary for keyword occurrences
-summary = "Keyword Summary:\n"
-for page_num, count in keyword_counts.items():
-    summary += f"Page {page_num + 1}: {count} occurrence(s)\n"
+# Register a Thai font
+pdfmetrics.registerFont(TTFont('THSarabunNew', r'C:\Users\aaa\Desktop\OCR\Font\THSarabunNew.ttf'))
 
-# Convert keyword sentences to PDF without highlights (normal text)
+# Create a stylesheet and assign the Thai font to the body text
+styles = getSampleStyleSheet()
+styles['BodyText'].fontName = 'THSarabunNew'
+styles['BodyText'].fontSize = 12
+
+# Create a red-colored style for keywords
+red_keyword_style = ParagraphStyle('RedKeyword', parent=styles['BodyText'], textColor=red)
+
+# Create PDF file
 pdf_file = os.path.join(output_folder, 'keyword_sentences.pdf')
 doc = SimpleDocTemplate(pdf_file, pagesize=letter)
-styles = getSampleStyleSheet()
 story = []
 
 # Add keyword summary to the PDF document
@@ -163,8 +121,13 @@ for page_num, count in keyword_counts.items():
 # Add a spacer before adding the actual keyword sentences
 story.append(Spacer(1, 24))
 
-# Create PDF content from the keyword sentences (without **)
+# Highlight keywords in red when creating PDF content from the keyword sentences
+# Highlight keywords in red when creating PDF content from the keyword sentences
 for line in pages_sentences:
+    for keyword in keywords:
+        # Case-insensitive search but retain the original case for output
+        pattern = re.compile(rf'({re.escape(keyword)})', re.IGNORECASE)
+        line = pattern.sub(r'<font color="red">\1</font>', line)  # Retain original case
     story.append(Paragraph(line, styles['BodyText']))
 
 # Build the PDF document
@@ -176,5 +139,10 @@ for file in os.listdir(ocr_image_folder):
     if os.path.isfile(file_path):
         os.remove(file_path)
 os.rmdir(ocr_image_folder)
+
+# Calculate and print the processing time
+end_time = time.time()
+processing_time = end_time - start_time
+print(f"Processing completed in {processing_time:.2f} seconds.")
 
 print("Keyword sentences saved to PDF and text files.")
