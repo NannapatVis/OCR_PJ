@@ -11,13 +11,13 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.colors import red
-import pdfplumber  # ใช้ pdfplumber แทน PyPDF2
+import pdfplumber  
 
 # Set the path to Tesseract OCR
 tess.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # Default keywords (can be left empty if you want to force input from Terminal)
-keywords = ['']  # Example of pre-defined keyword (leave empty to prompt for input)
+keywords = ['holmes']  
 
 # Check if keywords are empty or contain only empty strings
 if not keywords or all(kw.strip() == '' for kw in keywords):
@@ -70,7 +70,7 @@ with pdfplumber.open(pdf_path) as pdf:
                         if page_num not in keyword_counts:
                             keyword_counts[page_num] = 0
                         keyword_counts[page_num] += len(re.findall(rf'\b{re.escape(keyword)}\b', paragraph, re.IGNORECASE))
-                        formatted_sentence = f'Page {page_num + 1}, Paragraph {para_num + 1}: {paragraph.strip()}'
+                        formatted_sentence = f'Page {page_num + 1}: {paragraph.strip()}'
                         pages_sentences.append(formatted_sentence)
 
                         # For the .txt file, add ** around the keywords
@@ -111,12 +111,17 @@ story.append(Spacer(1, 24))
 
 # Highlight keywords in red when creating PDF content from the keyword sentences
 for line in pages_sentences:
-    # Remove paragraph information from 'formatted_sentence' but keep the page number
-    clean_line = re.sub(r'Paragraph \d+: ', '', line)  # Remove only paragraph info but keep the page number
+    # Remove both "Paragraph" and "Page" info, but keep the page number
+    clean_line = re.sub(r'Paragraph \d+: ', '', line)  # Remove paragraph info
+    clean_line = re.sub(r'Page (\d+), ', r'Page \1: ', clean_line)  # Format page number
+    
     for keyword in keywords:
         # Case-insensitive search but retain the original case for output
         pattern = re.compile(rf'({re.escape(keyword)})', re.IGNORECASE)
-        clean_line = pattern.sub(r'<font color="red"><b>\1</b></font>', clean_line)  # Retain original case
+        # Use <b> and <font color='red'> instead of <font color="red"><b>
+        clean_line = pattern.sub(r'<b><font color="red">\1</font></b>', clean_line)
+    
+    # Append the clean sentence to the story for the PDF
     story.append(Paragraph(clean_line, styles['BodyText']))
 
 # Build the PDF document

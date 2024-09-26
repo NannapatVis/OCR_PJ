@@ -1,4 +1,4 @@
-Page 1, Paragraph 1: THE ADVENTURES OF SHERLOCK **holmes** by ARTHUR CONAN DOYLE
+Page 1: THE ADVENTURES OF SHERLOCK **holmes** by ARTHUR CONAN DOYLE
 A Scandal in Bohemia The Red-headed League A Case of Identity The Boscombe Valley
 Mystery The Five Orange Pips The Man with the Twisted Lip The Adventure of the Blue
 Carbuncle The Adventure of the Speckled Band The Adventure of the Engineer’s Thumb
@@ -41,7 +41,7 @@ Street. As I passed the well-remembered door, which must always be associated in
 mind with my wooing, and with the dark incidents of the Study in Scarlet, I was seized
 with a keen desire to see **holmes** again, and to know how he was employing his
 extraordinary powers. His rooms were brilliantly lit, and, even as I looked up, I saw his
-Page 2, Paragraph 1: tall, spare figure pass twice in a dark silhouette against the blind. He was pacing the room
+Page 2: tall, spare figure pass twice in a dark silhouette against the blind. He was pacing the room
 swiftly, eagerly, with his head sunk upon his chest and his hands clasped behind him. To
 me, who knew his every mood and habit, his attitude and manner told their own story. He
 was at work again. He had risen out of his drug-created dreams and was hot upon the scent
@@ -82,7 +82,7 @@ of your reasoning I am baffled until you explain your process. And yet I believe
 eyes are as good as yours.”
 “Quite so,” he answered, lighting a cigarette, and throwing himself down into an armchair.
 “You see, but you do not observe. The distinction is clear. For example, you have
-Page 3, Paragraph 1: frequently seen the steps which lead up from the hall to this room.”
+Page 3: frequently seen the steps which lead up from the hall to this room.”
 “Frequently.”
 “How often?”
 “Well, some hundreds of times.”
@@ -121,7 +121,7 @@ Now for the ‘Eg.’ Let us glance at our Continental Gazetteer.” He took dow
 brown volume from his shelves. “Eglow, Eglonitz—here we are, Egria. It is in a German-
 speaking country—in Bohemia, not far from Carlsbad. ‘Remarkable as being the scene of
 the death of Wallenstein, and for its numerous glass-factories and paper-mills.’ Ha, ha, my
-Page 4, Paragraph 1: boy, what do you make of that?” His eyes sparkled, and he sent up a great blue triumphant
+Page 4: boy, what do you make of that?” His eyes sparkled, and he sent up a great blue triumphant
 cloud from his cigarette.
 “The paper was made in Bohemia,” I said.
 “Precisely. And the man who wrote the note is a German. Do you note the peculiar
@@ -161,7 +161,7 @@ a long, straight chin suggestive of resolution pushed to the length of obstinacy
 accent. “I told you that I would call.” He looked from one to the other of us, as if uncertain
 which to address.
 “Pray take a seat,” said **holmes**. “This is my friend and colleague, Dr. Watson, who is
-Page 5, Paragraph 1: occasionally good enough to help me in my cases. Whom have I the honor to address?”
+Page 5: occasionally good enough to help me in my cases. Whom have I the honor to address?”
 “You may address me as the Count Von Kramm, a Bohemian nobleman. I understand that
 this gentleman, your friend, is a man of honor and discretion, whom I may trust with a
 matter of the most extreme importance. If not, I should much prefer to communicate with
@@ -201,7 +201,7 @@ Cassel-Felstein, and hereditary King of Bohemia.”
 “But you can understand,” said our strange visitor, sitting down once more and passing his
 hand over his high white forehead, “you can understand that I am not accustomed to doing
 such business in my own person. Yet the matter was so delicate that I could not confide it
-Page 6, Paragraph 1: to an agent without putting myself in his power. I have come incognito from Prague for
+Page 6: to an agent without putting myself in his power. I have come incognito from Prague for
 the purpose of consulting you.”
 “Then, pray consult,” said **holmes**, shutting his eyes once more.
 “The facts are briefly these: Some five years ago, during a lengthy visit to Warsaw, I made
@@ -237,7 +237,7 @@ blackmailing or other purposes, how is she to prove their authenticity?”
 “Oh, dear! That is very bad! Your Majesty has indeed committed an indiscretion.”
 “I was mad—insane.”
 “You have compromised yourself seriously.”
-Page 7, Paragraph 1: “I was only Crown Prince then. I was young. I am but thirty now.”
+Page 7: “I was only Crown Prince then. I was young. I am but thirty now.”
 “It must be recovered.”
 “We have tried and failed.”
 “Your Majesty must pay. It must be bought.”
@@ -272,7 +272,7 @@ proclaimed. That will be next Monday.”
 have one or two matters of importance to look into just at present. Your Majesty will, of
 course, stay in London for the present?”
 “Certainly. You will find me at the Langham under the name of the Count Von Kramm.”
-Page 8, Paragraph 1: “Then I shall drop you a line to let you know how we progress.”
+Page 8: “Then I shall drop you a line to let you know how we progress.”
 “Pray do so. I shall be all anxiety.”
 “Then, as to money?”
 “You have carte blanche.”
@@ -310,7 +310,7 @@ three times before I was certain that it was indeed he. With a nod he vanished i
 bedroom, whence he emerged in five minutes tweed-suited and respectable, as of old.
 Putting his hands into his pockets, he stretched out his legs in front of the fire and laughed
 heartily for some minutes.
-Page 12, Paragraph 1: “You are to watch me, for I will be visible to you.”
+Page 12: “You are to watch me, for I will be visible to you.”
 “Yes.”
 “And when I raise my hand—so—you will throw into the room what I give you to throw,
 and will, at the same time, raise the cry of fire. You quite follow me?”
@@ -350,7 +350,7 @@ find the photograph?”
 “Where, indeed?”
 “It is most unlikely that she carries it about with her. It is cabinet size. Too large for easy
 concealment about a woman’s dress. She knows that the King is capable of having her
-Page 13, Paragraph 1: waylaid and searched. Two attempts of the sort have already been made. We may take it,
+Page 13: waylaid and searched. Two attempts of the sort have already been made. We may take it,
 then, that she does not carry it about with her.”
 “Where, then?”
 “Her banker or her lawyer. There is that double possibility. But I am inclined to think
@@ -390,7 +390,7 @@ the street.
 to hospital.”
 “He’s a brave fellow,” said a woman. “They would have had the lady’s purse and watch if
 it hadn’t been for him. They were a gang, and a rough one, too. Ah, he’s breathing now.”
-Page 14, Paragraph 1: “He can’t lie in the street. May we bring him in, marm?”
+Page 14: “He can’t lie in the street. May we bring him in, marm?”
 “Surely. Bring him into the sitting-room. There is a comfortable sofa. This way, please!”
 Slowly and solemnly he was borne into Briony Lodge and laid out in the principal room,
 while I still observed the proceedings from my post by the window. The lamps had been
@@ -430,7 +430,7 @@ is an old trick.”
 “That also I could fathom.”
 “Then they carried me in. She was bound to have me in. What else could she do? And into
 her sitting-room, which was the very room which I suspected. It lay between that and her
-Page 15, Paragraph 1: bedroom, and I was determined to see which. They laid me on a couch, I motioned for air,
+Page 15: bedroom, and I was determined to see which. They laid me on a couch, I motioned for air,
 they were compelled to open the window. and you had your chance.”
 “How did that help you?”
 “It was all-important. When a woman thinks that her house is on fire, her instinct is at
@@ -470,7 +470,7 @@ morning when the King of Bohemia rushed into the room.
 “You have really got it!” he cried, grasping Sherlock **holmes** by either shoulder and
 looking eagerly into his face.
 “Not yet.”
-Page 16, Paragraph 1: “But you have hopes?”
+Page 16: “But you have hopes?”
 “I have hopes.”
 “Then, come. I am all impatience to be gone.”
 “We must have a cab.”
@@ -506,7 +506,7 @@ that she has left England?”
 the King and myself. The furniture was scattered about in every direction, with dismantled
 shelves and open drawers, as if the lady had hurriedly ransacked them before her flight.
 **holmes** rushed at the bell-pull, tore back a small sliding shutter, and, plunging in his hand,
-Page 17, Paragraph 1: pulled out a photograph and a letter. The photograph was of Irene Adler herself in evening
+Page 17: pulled out a photograph and a letter. The photograph was of Irene Adler herself in evening
 dress, the letter was superscribed to “Sherlock **holmes**, Esq. To be left till called for.” My
 friend tore it open and we all three read it together. It was dated at midnight of the
 preceding night and ran in this way:
@@ -547,7 +547,7 @@ hand.
 “You have but to name it.”
 “This photograph!”
 The King stared at him in amazement.
-Page 18, Paragraph 1: “Irene’s photograph!” he cried. “Certainly, if you wish it.”
+Page 18: “Irene’s photograph!” he cried. “Certainly, if you wish it.”
 “I thank your Majesty. Then there is no more to be done in the matter. I have the honor to
 wish you a very good-morning.” He bowed, and, turning away without observing the hand
 which the King had stretched out to him, he set off in my company for his chambers.
@@ -587,7 +587,7 @@ keep on piling fact upon fact on you until your reason breaks down under them an
 acknowledges me to be right. Now, Mr. Jabez Wilson here has been good enough to call
 upon me this morning, and to begin a narrative which promises to be one of the most
 singular which I have listened to for some time. You have heard me remark that the
-Page 19, Paragraph 1: strangest and most unique things are very often connected not with the larger but with the
+Page 19: strangest and most unique things are very often connected not with the larger but with the
 smaller crimes, and occasionally, indeed, where there is room for doubt whether any
 positive crime has been committed. As far as I have heard it is impossible for me to say
 whether the present case is an instance of crime or not, but the course of events is certainly
@@ -628,7 +628,7 @@ against the strict rules of your order, you use an arc-and-compass breastpin.”
 “Ah, of course, I forgot that. But the writing?”
 “What else can be indicated by that right cuff so very shiny for five inches, and the left
 one with the smooth patch near the elbow where you rest it upon the desk?”
-Page 20, Paragraph 1: “Well, but China?”
+Page 20: “Well, but China?”
 “The fish that you have tattooed immediately above your right wrist could only have been
 done in China. I have made a small study of tattoo marks and have even contributed to the
 literature of the subject. That trick of staining the fishes’ scales of a delicate pink is quite
@@ -668,7 +668,7 @@ better himself and earn twice what I am able to give him. But, after all, if he 
 why should I put ideas in his head?”
 “Why, indeed? You seem most fortunate in having an employee who comes under the full
 market price. It is not a common experience among employers in this age. I don’t know
-Page 21, Paragraph 1: that your assistant is not as remarkable as your advertisement.”
+Page 21: that your assistant is not as remarkable as your advertisement.”
 “Oh, he has his faults, too,” said Mr. Wilson. “Never was such a fellow for photography.
 Snapping away with a camera when he ought to be improving his mind, and then diving
 down into the cellar like a rabbit into its hole to develop his pictures. That is his main
@@ -707,7 +707,7 @@ can make out, the League was founded by an American millionaire, Ezekiah Hopkins
 who was very peculiar in his ways. He was himself red-headed, and he had a great
 sympathy for all red-headed men; so when he died it was found that he had left his
 enormous fortune in the hands of trustees, with instructions to apply the interest to the
-Page 22, Paragraph 1: providing of easy berths to men whose hair is of that color. From all I hear it is splendid
+Page 22: providing of easy berths to men whose hair is of that color. From all I hear it is splendid
 pay and very little to do.’
 “‘But,’ said I, ‘there would be millions of red-headed men who would apply.’
 “‘Not so many as you might think,’ he answered. ‘You see it is really confined to
@@ -750,7 +750,7 @@ private word with us.
 League.’
 “‘And he is admirably suited for it,’ the other answered. ‘He has every requirement. I
 cannot recall when I have seen anything so fine.’ He took a step backward, cocked his
-Page 23, Paragraph 1: head on one side, and gazed at my hair until I felt quite bashful. Then suddenly he plunged
+Page 23: head on one side, and gazed at my hair until I felt quite bashful. Then suddenly he plunged
 forward, wrung my hand, and congratulated me warmly on my success.
 “‘It would be injustice to hesitate,’ said he. ‘You will, however, I am sure, excuse me for
 taking an obvious precaution.’ With that he seized my hair in both his hands, and tugged
@@ -788,7 +788,7 @@ he would see to anything that turned up.
 “‘And the work?’
 “‘Is purely nominal.’
 “‘What do you call purely nominal?’
-Page 24, Paragraph 1: “‘Well, you have to be in the office, or at least in the building, the whole time. If you
+Page 24: “‘Well, you have to be in the office, or at least in the building, the whole time. If you
 leave, you forfeit your whole position forever. The will is very clear upon that point. You
 don’t comply with the conditions if you budge from the office during that time.’
 “‘It’s only four hours a day, and I should not think of leaving,’ said I.
@@ -829,7 +829,7 @@ B’s before very long. It cost me something in foolscap, and I had pretty nearl
 shelf with my writings. And then suddenly the whole business came to an end.”
 “To an end?”
 “Yes, sir. And no later than this morning. I went to my work as usual at ten o’clock, but
-Page 25, Paragraph 1: the door was shut and locked, with a little square of card-board hammered on to the
+Page 25: the door was shut and locked, with a little square of card-board hammered on to the
 middle of the panel with a tack. Here it is, and you can read for yourself.”
 He held up a piece of white card-board about the size of a sheet of note-paper. It read in
 this fashion:
@@ -867,7 +867,7 @@ Ross.”
 not help me in any way. He could only say that if I waited I should hear by post. But that
 was not quite good enough, Mr. **holmes**. I did not wish to lose such a place without a
 struggle, so, as I had heard that you were good enough to give advice to poor folk who
-Page 26, Paragraph 1: were in need of it, I came right away to you.”
+Page 26: were in need of it, I came right away to you.”
 “And you did very wisely,” said **holmes**. “Your case is an exceedingly remarkable one,
 and I shall be happy to look into it. From what you have told me I think that it is possible
 that graver issues hang from it than might at first sight appear.”
@@ -903,7 +903,7 @@ you ever observed that his ears are pierced for earrings?”
 “Nothing to complain of, sir. There’s never very much to do of a morning.”
 “That will do, Mr. Wilson. I shall be happy to give you an opinion upon the subject in the
 course of a day or two. To-day is Saturday, and I hope that by Monday we may come to a
-Page 27, Paragraph 1: conclusion.”
+Page 27: conclusion.”
 “Well, Watson,” said **holmes** when our visitor had left us, “what do you make of it all?”
 “I make nothing of it,” I answered frankly. “It is a most mysterious business.”
 “As a rule,” said **holmes**, “the more bizarre a thing is the less mysterious it proves to be. It
@@ -943,7 +943,7 @@ Strand.”
 fourth smartest man in London, and for daring I am not sure that he has not a claim to be
 third. I have known something of him before.”
 “Evidently,” said I, “Mr. Wilson’s assistant counts for a good deal in this mystery of the
-Page 28, Paragraph 1: Red-headed League. I am sure that you inquired your way merely in order that you might
+Page 28: Red-headed League. I am sure that you inquired your way merely in order that you might
 see him.”
 “Not him.”
 “What then?”
@@ -985,7 +985,7 @@ of the chase would suddenly come upon him, and that his brilliant reasoning powe
 rise to the level of intuition, until those who were unacquainted with his methods would
 look askance at him as on a man whose knowledge was not that of other mortals. When I
 saw him that afternoon so enwrapped in the music at St. James’s Hall I felt that an evil
-Page 29, Paragraph 1: time might be coming upon those whom he had set himself to hunt down.
+Page 29: time might be coming upon those whom he had set himself to hunt down.
 “You want to go home, no doubt, Doctor,” he remarked as we emerged.
 “Yes, it would be as well.”
 “And I have some business to do which will take some hours. This business at Coburg
@@ -1025,7 +1025,7 @@ adventure.”
 “We’re hunting in couples again, Doctor, you see,” said Jones in his consequential way.
 “Our friend here is a wonderful man for starting a chase. All he wants is an old dog to help
 him to do the running down.”
-Page 30, Paragraph 1: “I hope a wild goose may not prove to be the end of our chase,” observed Mr.
+Page 30: “I hope a wild goose may not prove to be the end of our chase,” observed Mr.
 Merryweather gloomily.
 “You may place considerable confidence in Mr. **holmes**, sir,” said the police agent loftily.
 “He has his own little methods, which are, if he won’t mind my saying so, just a little too
@@ -1067,7 +1067,7 @@ and led down a flight of winding stone steps, which terminated at another formid
 Mr. Merryweather stopped to light a lantern, and then conducted us down a dark, earth-
 smelling passage, and so, after opening a third door, into a huge vault or cellar, which was
 piled all round with crates and massive boxes.
-Page 31, Paragraph 1: “You are not very vulnerable from above,” **holmes** remarked as he held up the lantern and
+Page 31: “You are not very vulnerable from above,” **holmes** remarked as he held up the lantern and
 gazed about him.
 “Nor from below,” said Mr. Merryweather, striking his stick upon the flags which lined the
 floor. “Why, dear me, it sounds quite hollow!” he remarked, looking up in surprise.
@@ -1108,7 +1108,7 @@ crate, and do you conceal yourselves behind those. Then, when I flash a light up
 close in swiftly. If they fire, Watson, have no compunction about shooting them down.”
 I placed my revolver, cocked, upon the top of the wooden case behind which I crouched.
 **holmes** shot the slide across the front of his lantern and left us in pitch darkness—such an
-Page 32, Paragraph 1: absolute darkness as I have never before experienced. The smell of hot metal remained to
+Page 32: absolute darkness as I have never before experienced. The smell of hot metal remained to
 assure us that the light was still there, ready to flash out at a moment’s notice. To me, with
 my nerves worked up to a pitch of expectancy, there was something depressing and
 subduing in the sudden gloom, and in the cold dank air of the vault.
@@ -1148,7 +1148,7 @@ man’s wrist, and the pistol clinked upon the stone floor.
 though I see you have got his coat-tails.”
 “There are three men waiting for him at the door,” said **holmes**.
 “Oh, indeed! You seem to have done the thing very completely. I must compliment you.”
-Page 33, Paragraph 1: “And I you,” **holmes** answered. “Your red-headed idea was very new and effective.”
+Page 33: “And I you,” **holmes** answered. “Your red-headed idea was very new and effective.”
 “You’ll see your pal again presently,” said Jones. “He’s quicker at climbing down holes
 than I am. Just hold out while I fix the derbies.”
 “I beg that you will not touch me with your filthy hands,” remarked our prisoner as the
@@ -1190,7 +1190,7 @@ daring criminals in London. He was doing something in the cellar—something whi
 many hours a day for months on end. What could it be, once more? I could think of
 nothing save that he was running a tunnel to some other building.
 “So far I had got when we went to visit the scene of action. I surprised you by beating
-Page 34, Paragraph 1: upon the pavement with my stick. I was ascertaining whether the cellar stretched out in
+Page 34: upon the pavement with my stick. I was ascertaining whether the cellar stretched out in
 front or behind. It was not in front. Then I rang the bell, and, as I hoped, the assistant
 answered it. We have had some skirmishes, but we had never set eyes upon each other
 before. I hardly looked at his face. His knees were what I wished to see. You must yourself
@@ -1231,7 +1231,7 @@ fascinating nor artistic.”
 platitudes of the magistrate than upon the details, which to an observer contain the vital
 essence of the whole matter. Depend upon it, there is nothing so unnatural as the
 commonplace.”
-Page 35, Paragraph 1: I smiled and shook my head. “I can quite understand your thinking so.” I said. “Of course,
+Page 35: I smiled and shook my head. “I can quite understand your thinking so.” I said. “Of course,
 in your position of unofficial adviser and helper to everybody who is absolutely puzzled,
 throughout three continents, you are brought in contact with all that is strange and bizarre.
 But here”—I picked up the morning paper from the ground—“let us put it to a practical
@@ -1274,7 +1274,7 @@ of Devonshire fashion over her ear. From under this great panoply she peeped up 
 nervous, hesitating fashion at our windows, while her body oscillated backward and
 forward, and her fingers fidgeted with her glove buttons. Suddenly, with a plunge, as of
 the swimmer who leaves the bank, she hurried across the road, and we heard the sharp
-Page 36, Paragraph 1: clang of the bell.
+Page 36: clang of the bell.
 “I have seen those symptoms before,” said **holmes**, throwing his cigarette into the fire.
 “Oscillation upon the pavement always means an affaire de coeur. She would like advice,
 but is not sure that the matter is not too delicate for communication. And yet even here we
@@ -1315,7 +1315,7 @@ and two months older than myself.”
 “And your mother is alive?”
 “Oh, yes, mother is alive and well. I wasn’t best pleased, Mr. **holmes**, when she married
 again so soon after father’s death, and a man who was nearly fifteen years younger than
-Page 37, Paragraph 1: herself. Father was a plumber in the Tottenham Court Road, and he left a tidy business
+Page 37: herself. Father was a plumber in the Tottenham Court Road, and he left a tidy business
 behind him, which mother carried on with Mr. Hardy, the foreman; but when Mr.
 Windibank came he made her sell the business, for he was very superior, being a traveller
 in wines. They got 4700 pounds for the goodwill and interest, which wasn’t near as much
@@ -1357,7 +1357,7 @@ shoulders, and said there was no use denying anything to a woman, for she would 
 way.”
 “I see. Then at the gasfitters’ ball you met, as I understand, a gentleman called Mr. Hosmer
 Angel.”
-Page 38, Paragraph 1: “Yes, sir. I met him that night, and he called next day to ask if we had got home all safe,
+Page 38: “Yes, sir. I met him that night, and he called next day to ask if we had got home all safe,
 and after that we met him—that is to say, Mr. **holmes**, I met him twice for walks, but after
 that father came back again, and Mr. Hosmer Angel could not come to the house any
 more.”
@@ -1396,7 +1396,7 @@ he was. Even his voice was gentle. He’d had the quinsy and swollen glands when
 young, he told me, and it had left him with a weak throat, and a hesitating, whispering
 fashion of speech. He was always well dressed, very neat and plain, but his eyes were
 weak, just as mine are, and he wore tinted glasses against the glare.”
-Page 39, Paragraph 1: “Well, and what happened when Mr. Windibank, your stepfather, returned to France?”
+Page 39: “Well, and what happened when Mr. Windibank, your stepfather, returned to France?”
 “Mr. Hosmer Angel came to the house again and proposed that we should marry before
 father came back. He was in dreadful earnest and made me swear, with my hands on the
 Testament, that whatever happened I would always be true to him. Mother said he was
@@ -1436,7 +1436,7 @@ then I think that what he foresaw happened.”
 “One more question. How did your mother take the matter?”
 “She was angry, and said that I was never to speak of the matter again.”
 “And your father? Did you tell him?”
-Page 40, Paragraph 1: “Yes; and he seemed to think, with me, that something had happened, and that I should
+Page 40: “Yes; and he seemed to think, with me, that something had happened, and that I should
 hear of Hosmer again. As he said, what interest could anyone have in bringing me to the
 doors of the church, and then leaving me? Now, if he had borrowed my money, or if he
 had married me and got my money settled on him, there might be some reason, but
@@ -1476,7 +1476,7 @@ having lit it, he leaned back in his chair, with the thick blue cloud-wreaths sp
 from him, and a look of infinite languor in his face.
 “Quite an interesting study, that maiden,” he observed. “I found her more interesting than
 her little problem, which, by the way, is rather a trite one. You will find parallel cases, if
-Page 41, Paragraph 1: you consult my index, in Andover in ‘77, and there was something of the sort at The
+Page 41: you consult my index, in Andover in ‘77, and there was something of the sort at The
 Hague last year. Old as is the idea, however, there were one or two details which were new
 to me. But the maiden herself was most instructive.”
 “You appeared to read a good deal upon her which was quite invisible to me,” I remarked.
@@ -1518,7 +1518,7 @@ dressed. You observed that her right glove was torn at the forefinger, but you d
 apparently see that both glove and finger were stained with violet ink. She had written in a
 hurry and dipped her pen too deep. It must have been this morning, or the mark would not
 remain clear upon the finger. All this is amusing, though rather elementary, but I must go
-Page 42, Paragraph 1: back to business, Watson. Would you mind reading me the advertised description of Mr.
+Page 42: back to business, Watson. Would you mind reading me the advertised description of Mr.
 Hosmer Angel?”
 I held the little printed slip to the light.
 “Missing [it said] on the morning of the fourteenth, a gentleman named Hosmer Angel.
@@ -1559,7 +1559,7 @@ lead up to the identity of the disappearing bridegroom of Miss Mary Sutherland.
 A professional case of great gravity was engaging my own attention at the time, and the
 whole of next day I was busy at the bedside of the sufferer. It was not until close upon six
 o’clock that I found myself free and was able to spring into a hansom and drive to Baker
-Page 43, Paragraph 1: Street, half afraid that I might be too late to assist at the denouement of the little mystery. I
+Page 43: Street, half afraid that I might be too late to assist at the denouement of the little mystery. I
 found Sherlock **holmes** alone, however, half asleep, with his long, thin form curled up in
 the recesses of his armchair. A formidable array of bottles and test-tubes, with the pungent
 cleanly smell of hydrochloric acid, told me that he had spent his day in the chemical work
@@ -1599,7 +1599,7 @@ exactly alike. Some letters get more worn than others, and some wear only on one
 Now, you remark in this note of yours, Mr. Windibank, that in every case there is some
 little slurring over of the ‘e,’ and a slight defect in the tail of the ‘r.’ There are fourteen
 other characteristics, but those are the more obvious.”
-Page 44, Paragraph 1: “We do all our correspondence with this machine at the office, and no doubt it is a little
+Page 44: “We do all our correspondence with this machine at the office, and no doubt it is a little
 worn,” our visitor answered, glancing keenly at **holmes** with his bright little eyes.
 “And now I will show you what is really a very interesting study, Mr. Windibank,”
 **holmes** continued. “I think of writing another little monograph some of these days on the
@@ -1641,7 +1641,7 @@ found that that would not answer forever. She became restive, insisted upon her 
 finally announced her positive intention of going to a certain ball. What does her clever
 stepfather do then? He conceives an idea more creditable to his head than to his heart.
 With the connivance and assistance of his wife he disguised himself, covered those keen
-Page 45, Paragraph 1: eyes with tinted glasses, masked the face with a moustache and a pair of bushy whiskers,
+Page 45: eyes with tinted glasses, masked the face with a moustache and a pair of bushy whiskers,
 sunk that clear voice into an insinuating whisper, and doubly secure on account of the
 girl’s short sight, he appears as Mr. Hosmer Angel, and keeps off other lovers by making
 love himself.”
@@ -1684,7 +1684,7 @@ into his chair once more. “That fellow will rise from crime to crime until he 
 something very bad, and ends on a gallows. The case has, in some respects, been not
 entirely devoid of interest.”
 “I cannot now entirely see all the steps of your reasoning,” I remarked.
-Page 46, Paragraph 1: “Well, of course it was obvious from the first that this Mr. Hosmer Angel must have some
+Page 46: “Well, of course it was obvious from the first that this Mr. Hosmer Angel must have some
 strong object for his curious conduct, and it was equally clear that the only man who really
 profited by the incident, as far as we could see, was the stepfather. Then the fact that the
 two men were never together, but that the one always appeared when the other was away,
@@ -1725,7 +1725,7 @@ answered. “But if I am to go, I must pack at once, for I have only half an hou
 My experience of camp life in Afghanistan had at least had the effect of making me a
 prompt and ready traveller. My wants were few and simple, so that in less than the time
 stated I was in a cab with my valise, rattling away to Paddington Station. Sherlock **holmes**
-Page 47, Paragraph 1: was pacing up and down the platform, his tall, gaunt figure made even gaunter and taller
+Page 47: was pacing up and down the platform, his tall, gaunt figure made even gaunter and taller
 by his long gray travelling-cloak and close-fitting cloth cap.
 “It is really very good of you to come, Watson,” said he. “It makes a considerable
 difference to me, having someone with me on whom I can thoroughly rely. Local aid is
@@ -1740,7 +1740,7 @@ gigantic ball and tossed them up onto the rack.
 “The London press has not had very full accounts. I have just been looking through all the
 recent papers in order to master the particulars. It seems, from what I gather, to be one of
 those simple cases which are so extremely difficult.”
-Page 49, Paragraph 1: heard Mr. McCarthy the elder using very strong language to his son, and she saw the latter
+Page 49: heard Mr. McCarthy the elder using very strong language to his son, and she saw the latter
 raise up his hand as if to strike his father. She was so frightened by their violence that she
 ran away and told her mother when she reached home that she had left the two McCarthys
 quarrelling near Boscombe Pool, and that she was afraid that they were going to fight. She
@@ -1783,7 +1783,7 @@ whether Mr. Lestrade would have noted even so self-evident a thing as that.”
 You shave every morning, and in this season you shave by the sunlight; but since your
 shaving is less and less complete as we get farther back on the left side, until it becomes
 positively slovenly as we get round the angle of the jaw, it is surely very clear that that
-Page 50, Paragraph 1: side is less illuminated than the other. I could not imagine a man of your habits looking at
+Page 50: side is less illuminated than the other. I could not imagine a man of your habits looking at
 himself in an equal light and being satisfied with such a result. I only quote this as a trivial
 example of observation and inference. Therein lies my metier, and it is just possible that it
 may be of some service in the investigation which lies before us. There are one or two
@@ -1824,7 +1824,7 @@ Mr. James McCarthy, the only son of the deceased, was then called and gave evide
 follows: “I had been away from home for three days at Bristol, and had only just returned
 upon the morning of last Monday, the 3d. My father was absent from home at the time of
 my arrival, and I was informed by the maid that he had driven over to Ross with John
-Page 52, Paragraph 1: “A Juryman: ‘Did you see nothing which aroused your suspiclons when you returned on
+Page 52: “A Juryman: ‘Did you see nothing which aroused your suspiclons when you returned on
 hearing the cry and found your father fatally injured?’
 “Witness: ‘Nothing definite.’
 “The Coroner: ‘What do you mean?’
@@ -1863,7 +1863,7 @@ twenty minutes.”
 It was nearly four o’clock when we at last, after passing through the beautiful Stroud
 Valley, and over the broad gleaming Severn, found ourselves at the pretty little country-
 town of Ross. A lean, ferret-like man, furtive and sly-looking, was waiting for us upon the
-Page 53, Paragraph 1: platform. In spite of the light brown dustcoat and leather-leggings which he wore in
+Page 53: platform. In spite of the light brown dustcoat and leather-leggings which he wore in
 deference to his rustic surroundings, I had no difficulty in recognizing Lestrade, of
 Scotland Yard. With him we drove to the Hereford Arms where a room had already been
 engaged for us.
@@ -1903,7 +1903,7 @@ some loophole, some flaw? Do you not yourself think that he is innocent?”
 hear! He gives me hopes.”
 Lestrade shrugged his shoulders. “I am afraid that my colleague has been a little quick in
 forming his conclusions,” he said.
-Page 54, Paragraph 1: “But he is right. Oh! I know that he is right. James never did it. And about his quarrel with
+Page 54: “But he is right. Oh! I know that he is right. James never did it. And about his quarrel with
 his father, I am sure that the reason why he would not speak about it to the coroner was
 because I was concerned in it.”
 “In what way?” asked **holmes**.
@@ -1940,7 +1940,7 @@ of heart, but I call it cruel.”
 “I think that I see my way to clearing James McCarthy,” said **holmes**. “Have you an order
 to see him in prison?”
 “Yes, but only for you and me.”
-Page 55, Paragraph 1: “Then I shall reconsider my resolution about going out. We have still time to take a train
+Page 55: “Then I shall reconsider my resolution about going out. We have still time to take a train
 to Hereford and see him to-night?”
 “Ample.”
 “Then let us do so. Watson, I fear that you will find it very slow, but I shall only be away a
@@ -1983,7 +1983,7 @@ fagged by a long journey. I have seen young McCarthy.”
 “And what did you learn from him?”
 “Nothing.”
 “Could he throw no light?”
-Page 56, Paragraph 1: “None at all. I was inclined to think at one time that he knew who had done it and was
+Page 56: “None at all. I was inclined to think at one time that he knew who had done it and was
 screening him or her, but I am convinced now that he is as puzzled as everyone else. He is
 not a very quick-witted youth, though comely to look at and, I should think, sound at
 heart.”
@@ -2025,7 +2025,7 @@ old friend of McCarthy’s, and, I may add, a great benefactor to him, for I hav
 he gave him Hatherley Farm rent free.”
 “Indeed! That is interesting,” said **holmes**.
 “Oh, yes! In a hundred other ways he has helped him. Everybody about here speaks of his
-Page 57, Paragraph 1: kindness to him.”
+Page 57: kindness to him.”
 “Really! Does it not strike you as a little singular that this McCarthy, who appears to have
 had little of his own, and to have been under such obligations to Turner, should still talk of
 marrying his son to Turner’s daughter, who is, presumably, heiress to the estate, and that in
@@ -2067,7 +2067,7 @@ Lestrade and I walked behind him, the detective indifferent and contemptuous, wh
 watched my friend with the interest which sprang from the conviction that every one of his
 actions was directed towards a definite end.
 The Boscombe Pool, which is a little reed-girt sheet of water some fifty yards across, is
-Page 58, Paragraph 1: situated at the boundary between the Hatherley Farm and the private park of the wealthy
+Page 58: situated at the boundary between the Hatherley Farm and the private park of the wealthy
 Mr. Turner. Above the woods which lined it upon the farther side we could see the red,
 jutting pinnacles which marked the site of the rich landowner’s dwelling. On the Hatherley
 side of the pool the woods grew very thick, and there was a narrow belt of sodden grass
@@ -2110,7 +2110,7 @@ It was about ten minutes before we regained our cab and drove back into Ross, **
 still carrying with him the stone which he had picked up in the wood.
 “This may interest you, Lestrade,” he remarked, holding it out. “The murder was done
 with it.”
-Page 59, Paragraph 1: “I see no marks.”
+Page 59: “I see no marks.”
 “There are none.”
 “How do you know, then?”
 “The grass was growing under it. It had only lain there a few days. There was no sign of a
@@ -2147,7 +2147,7 @@ let me preach to you for a little. I don’t know quite what to do, and I should
 advice. Light a cigar and let me expound.”
 “Pray do so.”
 “Well, now, in considering this case there are two points about young McCarthy’s
-Page 60, Paragraph 1: narrative which struck us both instantly, although they impressed me in his favor and you
+Page 60: narrative which struck us both instantly, although they impressed me in his favor and you
 against him. One was the fact that his father should, according to his account, cry ‘Cooee!’
 before seeing him. The other was his singular dying reference to a rat. He mumbled
 several words, you understand, but that was all that caught the son’s ear. Now from this
@@ -2185,7 +2185,7 @@ criminal.”
 “You know my method. It is founded upon the observation of trifles.”
 “His height I know that you might roughly judge from the length of his stride. His boots,
 too, might be told from their traces.”
-Page 61, Paragraph 1: “Yes, they were peculiar boots.”
+Page 61: “Yes, they were peculiar boots.”
 “But his lameness?”
 “The impression of his right foot was always less distinct than his left. He put less weight
 upon it. Why? Because he limped—he was lame.”
@@ -2225,7 +2225,7 @@ scandal.”
 his weary eyes, as though his question was already answered.
 “Yes,” said **holmes**, answering the look rather than the words. “It is so. I know all about
 McCarthy.”
-Page 62, Paragraph 1: The old man sank his face in his hands. “God help me!” he cried. “But I would not have
+Page 62: The old man sank his face in his hands. “God help me!” he cried. “But I would not have
 let the young man come to harm. I give you my word that I would have spoken out if it
 went against him at the Assizes.”
 “I am glad to hear you say so,” said **holmes** gravely.
@@ -2266,7 +2266,7 @@ suspected. There I parted from my old pals and determined to settle down to a qu
 respectable life. I bought this estate, which chanced to be in the market, and I set myself to
 do a little good with my money, to make up for the way in which I had earned it. I
 married, too, and though my wife died young she left me my dear little Alice. Even when
-Page 63, Paragraph 1: she was just a baby her wee hand seemed to lead me down the right path as nothing else
+Page 63: she was just a baby her wee hand seemed to lead me down the right path as nothing else
 had ever done. In a word, I turned over a new leaf and did my best to make up for the past.
 All was going well when McCarthy laid his grip upon me.
 “I had gone up to town about an investment, and I met him in Regent Street with hardly a
@@ -2308,7 +2308,7 @@ which had been drawn out. “I pray that we may never be exposed to such a tempt
 for your deed at a higher court than the Assizes. I will keep your confession, and if
 McCarthy is condemned I shall be forced to use it. If not, it shall never be seen by mortal
 eye; and your secret, whether you be alive or dead, shall be safe with us.”
-Page 64, Paragraph 1: “Farewell, then,” said the old man solemnly. “Your own deathbeds, when they come, will
+Page 64: “Farewell, then,” said the old man solemnly. “Your own deathbeds, when they come, will
 be the easier for the thought of the peace which you have given to mine.” Tottering and
 shaking in all his giant frame, he stumbled slowly from the room.
 “God help us!” said **holmes** after a long silence. “Why does fate play such tricks with
@@ -2351,7 +2351,7 @@ for the instant from the routine of life and to recognize the presence of those 
 elemental forces which shriek at mankind through the bars of his civilization, like
 untamed beasts in a cage. As evening drew in, the storm grew higher and louder, and the
 wind cried and sobbed like a child in the chimney. Sherlock **holmes** sat moodily at one
-Page 65, Paragraph 1: side of the fireplace cross-indexing his records of crime, while I at the other was deep in
+Page 65: side of the fireplace cross-indexing his records of crime, while I at the other was deep in
 one of Clark Russell’s fine sea-stories until the howl of the gale from without seemed to
 blend with the text, and the splash of the rain to lengthen out into the long swash of the sea
 waves. My wife was on a visit to her mother’s, and for a few days I was a dweller once
@@ -2388,7 +2388,7 @@ the Tankerville Club scandal.”
 “Ah, of course. He was wrongfully accused of cheating at cards.”
 “He said that you could solve anything.”
 “He said too much.”
-Page 66, Paragraph 1: “That you are never beaten.”
+Page 66: “That you are never beaten.”
 “I have been beaten four times—three times by men, and once by a woman.”
 “But what is that compared with the number of your successes?”
 “It is true that I have been generally successful.”
@@ -2428,7 +2428,7 @@ brother.
 “He didn’t mind me; in fact, he took a fancy to me, for at the time when he saw me first I
 was a youngster of twelve or so. This would be in the year 1878, after he had been eight or
 nine years in England. He begged my father to let me live with him and he was very kind
-Page 68, Paragraph 1: less keen as the weeks passed and nothing happened to disturb the usual routine of our
+Page 68: less keen as the weeks passed and nothing happened to disturb the usual routine of our
 lives. I could see a change in my uncle, however. He drank more than ever, and he was
 less inclined for any sort of society. Most of his time he would spend in his room, with the
 door locked upon the inside, but sometimes he would emerge in a sort of drunken frenzy
@@ -2471,7 +2471,7 @@ as well as possible with us until the January of ‘85. On the fourth day after 
 heard my father give a sharp cry of surprise as we sat together at the breakfast-table. There
 he was, sitting with a newly opened envelope in one hand and five dried orange pips in the
 outstretched palm of the other one. He had always laughed at what he called my cock-and-
-Page 70, Paragraph 1: as in another.
+Page 70: as in another.
 “It was in January, ‘85, that my poor father met his end, and two years and eight months
 have elapsed since then. During that time I have lived happily at Horsham, and I had
 begun to hope that this curse had passed way from the family, and that it had ended with
@@ -2508,7 +2508,7 @@ and was advised by him to come to you.”
 no further evidence, I suppose, than that which you have placed before us—no suggestive
 detail which might help us?”
 “There is one thing,” said John Openshaw. He rummaged in his coat pocket, and, drawing
-Page 71, Paragraph 1: out a piece of discolored, blue-tinted paper, he laid it out upon the table. “I have some
+Page 71: out a piece of discolored, blue-tinted paper, he laid it out upon the table. “I have some
 remembrance,” said he, “that on the day when my uncle burned the papers I observed that
 the small, unburned margins which lay amid the ashes were of this particular color. I
 found this single sheet upon the floor of his room, and I am inclined to think that it may be
@@ -2547,7 +2547,7 @@ danger. How do you go back?
 “By train from Waterloo.”
 “It is not yet nine. The streets will be crowded, so I trust that you may be in safety. And
 yet you cannot guard yourself too closely.”
-Page 72, Paragraph 1: “I am armed.”
+Page 72: “I am armed.”
 “That is well. To-morrow I shall set to work upon your case.”
 “I shall see you at Horsham, then?”
 “No, your secret lies in London. It is there that I shall seek it.”
@@ -2587,7 +2587,7 @@ early days of our friendship, defined my limits in a very precise fashion.”
 “Yes,” I answered, laughing. “It was a singular document. Philosophy, astronomy, and
 politics were marked at zero, I remember. Botany variable, geology profound as regards
 the mud-stains from any region within fifty miles of town, chemistry eccentric, anatomy
-Page 73, Paragraph 1: unsystematic, sensational literature and crime records unique, violin-player, boxer,
+Page 73: unsystematic, sensational literature and crime records unique, violin-player, boxer,
 swordsman, lawyer, and self-poisoner by cocaine and tobacco. Those, I think, were the
 main points of my analysis.”
 **holmes** grinned at the last item. “Well,” he said, “I say now, as I said then, that a man
@@ -2628,7 +2628,7 @@ why I urged young Openshaw to caution. The blow has always fallen at the end of 
 time which it would take the senders to travel the distance. But this one comes from
 London, and therefore we cannot count upon delay.”
 “Good God!” I cried. “What can it mean, this relentless persecution?”
-Page 74, Paragraph 1: “The papers which Openshaw carried are obviously of vital importance to the person or
+Page 74: “The papers which Openshaw carried are obviously of vital importance to the person or
 persons in the sailing-ship. I think that it is quite clear that there must be more than one of
 them. A single man could not have carried out two deaths in such a way as to deceive a
 coroner’s jury. There must have been several in it, and they must have been men of
@@ -2671,7 +2671,7 @@ C. Well, I think, Doctor, that we may let some light into this dark place, and I
 the only chance young Openshaw has in the meantime is to do what I have told him. There
 is nothing more to be said or to be done to-night, so hand me over my violin and let us try
 to forget for half an hour the miserable weather and the still more miserable ways of our
-Page 75, Paragraph 1: fellow-men.”
+Page 75: fellow-men.”
 It had cleared in the morning, and the sun was shining with a subdued brightness through
 the dim veil which hangs over the great city. Sherlock **holmes** was already at breakfast
 when I came down.
@@ -2711,7 +2711,7 @@ set my hand upon this gang. That he should come to me for help, and that I shoul
 him away to his death—!” He sprang from his chair and paced about the room in
 uncontrollable agitation, with a flush upon his sallow cheeks and a nervous clasping and
 unclasping of his long thin hands.
-Page 76, Paragraph 1: “They must be cunning devils,” he exclaimed at last. “How could they have decoyed him
+Page 76: “They must be cunning devils,” he exclaimed at last. “How could they have decoyed him
 down there? The Embankment is not on the direct line to the station. The bridge, no doubt,
 was too crowded, even on such a night, for their purpose. Well, Watson, we shall see who
 will win in the long run. I am going out now!”
@@ -2749,7 +2749,7 @@ following the future career of every vessel which touched at Pondicherry in Janu
 February in ‘83. There were thirty-six ships of fair tonnage which were reported there
 during those months. Of these, one, the Lone Star, instantly attracted my attention, since,
 although it was reported as having cleared from London, the name is that which is given to
-Page 80, Paragraph 1: passed the tall man who sat by the brazier I felt a sudden pluck at my skirt, and a low
+Page 80: passed the tall man who sat by the brazier I felt a sudden pluck at my skirt, and a low
 voice whispered, “Walk past me, and then look back at me.” The words fell quite
 distinctly upon my ear. I glanced down. They could only have come from the old man at
 my side, and yet he sat now as absorbed as ever, very thin, very wrinkled, bent with age,
@@ -2790,7 +2790,7 @@ your medical views.”
 “An enemy?”
 “Yes; one of my natural enemies, or, shall I say, my natural prey. Briefly, Watson, I am in
 the midst of a very remarkable inquiry, and I have hoped to find a clew in the incoherent
-Page 81, Paragraph 1: ramblings of these sots, as I have done before now. Had I been recognized in that den my
+Page 81: ramblings of these sots, as I have done before now. Had I been recognized in that den my
 life would not have been worth an hour’s purchase; for I have used it before now for my
 own purposes, and the rascally Lascar who runs it has sworn to have vengeance upon me.
 There is a trap-door at the back of that building, near the corner of Paul’s Wharf, which
@@ -2830,7 +2830,7 @@ beginning to get to the fringe of the belt of suburban villas, when he shook him
 shrugged his shoulders, and lit up his pipe with the air of a man who has satisfied himself
 that he is acting for the best.
 “You have a grand gift of silence, Watson,” said he. “It makes you quite invaluable as a
-Page 85, Paragraph 1: the tide. But a human body is a different matter. There is a fierce eddy between the wharf
+Page 85: the tide. But a human body is a different matter. There is a fierce eddy between the wharf
 and the house. It seemed likely enough that the weighted coat had remained when the
 stripped body had been sucked away into the river.”
 “But I understand that all the other clothes were found in the room. Would the body be
@@ -2872,7 +2872,7 @@ horse’s feet.”
 kindly put two rooms at my disposal, and you may rest assured that she will have nothing
 but a welcome for my friend and colleague. I hate to meet her, Watson, when I have no
 news of her husband. Here we are. Whoa, there, whoa!”
-Page 86, Paragraph 1: We had pulled up in front of a large villa which stood within its own grounds. A stable-
+Page 86: We had pulled up in front of a large villa which stood within its own grounds. A stable-
 boy had run out to the horse’s head, and springing down, I followed **holmes** up the small,
 winding gravel-drive which led to the house. As we approached, the door flew open, and a
 little blonde woman stood in the opening, clad in some sort of light mousseline de soie,
@@ -2910,7 +2910,7 @@ repeated, standing upon the rug and looking keenly down at him as he leaned back
 basket-chair.
 “Frankly, then, madam, I do not.”
 “You think that he is dead?”
-Page 87, Paragraph 1: “I do.”
+Page 87: “I do.”
 “Murdered?”
 “I don’t say that. Perhaps.”
 “And on what day did he meet his death?”
@@ -2947,7 +2947,7 @@ well.”
 “‘Dearest do not be frightened. All will come well. There is a huge error which it may take
 some little time to rectify. Wait in patience.—NEVILLE.’ Written in pencil upon the fly-
 leaf of a book, octavo size, no water-mark. Hum! Posted to-day in Gravesend by a man
-Page 88, Paragraph 1: with a dirty thumb. Ha! And the flap has been gummed, if I am not very much in error, by
+Page 88: with a dirty thumb. Ha! And the flap has been gummed, if I am not very much in error, by
 a person who had been chewing tobacco. And you have no doubt that it is your husband’s
 hand, madam?”
 “None. Neville wrote those words.”
@@ -2983,7 +2983,7 @@ write letters, why should he remain away from you?”
 “A call for help, you thought?”
 “Yes. He waved his hands.”
 “But it might have been a cry of surprise. Astonishment at the unexpected sight of you
-Page 89, Paragraph 1: might cause him to throw up his hands?”
+Page 89: might cause him to throw up his hands?”
 “It is possible.”
 “And you thought he was pulled back?”
 “He disappeared so suddenly.”
@@ -3021,7 +3021,7 @@ nothing remained of the heap of shag which I had seen upon the previous night.
 “Game for a morning drive?”
 “Certainly.”
 “Then dress. No one is stirring yet, but I know where the stable-boy sleeps, and we shall
-Page 90, Paragraph 1: soon have the trap out.” He chuckled to himself as he spoke, his eyes twinkled, and he
+Page 90: soon have the trap out.” He chuckled to himself as he spoke, his eyes twinkled, and he
 seemed a different man to the sombre thinker of the previous night.
 As I dressed I glanced at my watch. It was no wonder that no one was stirring. It was
 twenty-five minutes past four. I had hardly finished when **holmes** returned with the news
@@ -3061,7 +3061,7 @@ in the disappearance of Mr. Neville St. Clair, of Lee.”
 “Yes. He was brought up and remanded for further inquiries.”
 “So I heard. You have him here?”
 “In the cells.”
-Page 91, Paragraph 1: “Is he quiet?”
+Page 91: “Is he quiet?”
 “Oh, he gives no trouble. But he is a dirty scoundrel.”
 “Dirty?”
 “Yes, it is all we can do to make him wash his hands, and his face is as black as a tinker’s.
@@ -3100,7 +3100,7 @@ vigorously across and down the prisoner’s face.
 Kent.”
 Never in my life have I seen such a sight. The man’s face peeled off under the sponge like
 the bark from a tree. Gone was the coarse brown tint! Gone, too, was the horrid scar which
-Page 92, Paragraph 1: had seamed it across, and the twisted lip which had given the repulsive sneer to the face!
+Page 92: had seamed it across, and the twisted lip which had given the repulsive sneer to the face!
 A twitch brought away the tangled red hair, and there, sitting up in his bed, was a pale,
 sad-faced, refined-looking man, black-haired and smooth-skinned, rubbing his eyes and
 staring about him with sleepy bewilderment. Then suddenly realizing the exposure, he
@@ -3141,7 +3141,7 @@ in a twist by the aid of a small slip of flesh-colored plaster. Then with a red 
 and an appropriate dress, I took my station in the business part of the city, ostensibly as a
 match-seller but really as a beggar. For seven hours I plied my trade, and when I returned
 home in the evening I found to my surprise that I had received no less than 26s. 4d.
-Page 94, Paragraph 1: “That note only reached her yesterday,” said **holmes**.
+Page 94: “That note only reached her yesterday,” said **holmes**.
 “Good God! What a week she must have spent!”
 “The police have watched this Lascar,” said Inspector Bradstreet, “and I can quite
 understand that he might find it difficult to post a letter unobserved. Probably he handed it
@@ -3181,7 +3181,7 @@ crime.”
 “No, no. No crime,” said Sherlock **holmes**, laughing. “Only one of those whimsical little
 incidents which will happen when you have four million human beings all jostling each
 other within the space of a few square miles. Amid the action and reaction of so dense a
-Page 96, Paragraph 1: “Did he not advertise?”
+Page 96: “Did he not advertise?”
 “No.”
 “Then, what clew could you have as to his identity?”
 “Only as much as we can deduce.”
@@ -3218,7 +3218,7 @@ and which he anoints with lime-cream. These are the more patent facts which are 
 deduced from his hat. Also, by the way, that it is extremely improbable that he has gas laid
 on in his house.”
 “You are certainly joking, **holmes**.”
-Page 97, Paragraph 1: “Not in the least. Is it possible that even now, when I give you these results, you are
+Page 97: “Not in the least. Is it possible that even now, when I give you these results, you are
 unable to see how they are attained?”
 “I have no doubt that I am very stupid, but I must confess that I am unable to follow you.
 For example, how did you deduce that this man was intellectual?”
@@ -3258,7 +3258,7 @@ affection.”
 “Nay, he was bringing home the goose as a peace-offering to his wife. Remember the card
 upon the bird’s leg.”
 “You have an answer to everything. But how on earth do you deduce that the gas is not
-Page 98, Paragraph 1: laid on in his house?”
+Page 98: laid on in his house?”
 “One tallow stain, or even two, might come by chance; but when I see no less than five, I
 think that there can be little doubt that the individual must be brought into frequent contact
 with burning tallow—walks upstairs at night probably with his hat in one hand and a
@@ -3298,7 +3298,7 @@ of having abstracted it from the lady’s jewel-case. The evidence against him w
 that the case has been referred to the Assizes. I have some account of the matter here, I
 believe.” He rummaged amid his newspapers, glancing over the dates, until at last he
 smoothed one out, doubled it over, and read the following paragraph:
-Page 99, Paragraph 1: “Hotel Cosmopolitan Jewel Robbery. John Horner, 26, plumber, was brought up upon the
+Page 99: “Hotel Cosmopolitan Jewel Robbery. John Horner, 26, plumber, was brought up upon the
 charge of having upon the 22d inst., abstracted from the jewel-case of the Countess of
 Morcar the valuable gem known as the blue carbuncle. James Ryder, upper-attendant at
 the hotel, gave his evidence to the effect that he had shown Horner up to the dressing-
@@ -3341,7 +3341,7 @@ his attention to it. Here you are, Peterson, run down to the advertising agency 
 this put in the evening papers.”
 “In which, sir?”
 “Oh, in the Globe, Star, Pall Mall, St. James’s, Evening News Standard, Echo, and any
-Page 100, Paragraph 1: others that occur to you.”
+Page 100: others that occur to you.”
 “Very well, sir. And this stone?”
 “Ah, yes, I shall keep the stone. Thank you. And, I say, Peterson, just buy a goose on your
 way back and leave it here with me, for we must have one to give to this gentleman in
@@ -3381,7 +3381,7 @@ shown up together to **holmes**’s room.
 with the easy air of geniality which he could so readily assume. “Pray take this chair by
 the fire, Mr. Baker. It is a cold night, and I observe that your circulation is more adapted
 for summer than for winter. Ah, Watson, you have just come at the right time. Is that your
-Page 101, Paragraph 1: hat, Mr. Baker?”
+Page 101: hat, Mr. Baker?”
 “Yes, sir, that is undoubtedly my hat.”
 He was a large man with rounded shoulders, a massive head, and a broad, intelligent face,
 sloping down to a pointed beard of grizzled brown. A touch of red in nose and cheeks,
@@ -3421,7 +3421,7 @@ pence every week, we were each to receive a bird at Christmas. My pence were dul
 and the rest is familiar to you. I am much indebted to you, sir, for a Scotch bonnet is fitted
 neither to my years nor my gravity.” With a comical pomposity of manner he bowed
 solemnly to both of us and strode off upon his way.
-Page 102, Paragraph 1: “So much for Mr. Henry Baker,” said **holmes** when he had closed the door behind him. “It
+Page 102: “So much for Mr. Henry Baker,” said **holmes** when he had closed the door behind him. “It
 is quite certain that he knows nothing whatever about the matter. Are you hungry,
 Watson?”
 “Not particularly.”
@@ -3460,7 +3460,7 @@ and the proprietor a horsy-looking man, with a sharp face and trim side-whiskers
 helping a boy to put up the shutters.
 “Good-evening. It’s a cold night,” said **holmes**.
 The salesman nodded and shot a questioning glance at my companion.
-Page 103, Paragraph 1: “Sold out of geese, I see,” continued **holmes**, pointing at the bare slabs of marble.
+Page 103: “Sold out of geese, I see,” continued **holmes**, pointing at the bare slabs of marble.
 “Let you have five hundred to-morrow morning.”
 “That’s no good.”
 “Well, there are some on the stall with the gas-flare.”
@@ -3496,7 +3496,7 @@ a nipper? I tell you, all those birds that went to the Alpha were town bred.”
 “Will you bet, then?”
 “It’s merely taking your money, for I know that I am right. But I’ll have a sovereign on
 with you, just to teach you not to be obstinate.”
-Page 104, Paragraph 1: The salesman chuckled grimly. “Bring me the books, Bill,” said he.
+Page 104: The salesman chuckled grimly. “Bring me the books, Bill,” said he.
 The small boy brought round a small thin volume and a great greasy-backed one, laying
 them out together beneath the hanging lamp.
 “Now then, Mr. Cocksure,” said the salesman, “I thought that I was out of geese, but
@@ -3535,7 +3535,7 @@ the cringing figure.
 “I’ve had enough of you and your geese,” he shouted. “I wish you were all at the devil
 together. If you come pestering me any more with your silly talk I’ll set the dog at you.
 You bring Mrs. Oakshott here and I’ll answer her, but what have you to do with it? Did I
-Page 105, Paragraph 1: buy the geese off you?”
+Page 105: buy the geese off you?”
 “No; but one of them was mine all the same,” whined the little man.
 “Well, then, ask Mrs. Oakshott for it.”
 “She told me to ask you.”
@@ -3573,7 +3573,7 @@ James Ryder.”
 soon be able to tell you everything which you would wish to know.”
 The little man stood glancing from one to the other of us with half-frightened, half-hopeful
 eyes, as one who is not sure whether he is on the verge of a windfall or of a catastrophe.
-Page 106, Paragraph 1: Then he stepped into the cab, and in half an hour we were back in the sitting-room at
+Page 106: Then he stepped into the cab, and in half an hour we were back in the sitting-room at
 Baker Street. Nothing had been said during our drive, but the high, thin breathing of our
 new companion, and the claspings and unclaspings of his hands, spoke of the nervous
 tension within him.
@@ -3613,7 +3613,7 @@ upon him. What did you do, then? You made some small job in my lady’s room—y
 your confederate Cusack—and you managed that he should be the man sent for. Then,
 when he had left, you rifled the jewel-case, raised the alarm, and had this unfortunate man
 arrested. You then—”
-Page 107, Paragraph 1: Ryder threw himself down suddenly upon the rug and clutched at my companion’s knees.
+Page 107: Ryder threw himself down suddenly upon the rug and clutched at my companion’s knees.
 “For God’s sake, have mercy!” he shrieked. “Think of my father! of my mother! It would
 break their hearts. I never went wrong before! I never will again. I swear it. I’ll swear it on
 a Bible. Oh, don’t bring it into court! For Christ’s sake, don’t!”
@@ -3656,7 +3656,7 @@ reach. The bird gave a gulp, and I felt the stone pass along its gullet and down
 crop. But the creature flapped and struggled, and out came my sister to know what was the
 matter. As I turned to speak to her the brute broke loose and fluttered off among the
 others.
-Page 108, Paragraph 1: “‘Whatever were you doing with that bird, Jem?’ says she.
+Page 108: “‘Whatever were you doing with that bird, Jem?’ says she.
 “‘Well,’ said I, ‘you said you’d give me one for Christmas, and I was feeling which was
 the fattest.’
 “‘Oh,’ says she, ‘we’ve set yours aside for you—Jem’s bird, we call it. It’s the big white
@@ -3693,7 +3693,7 @@ of Sherlock **holmes**’s finger-tips upon the edge of the table. Then my frien
 threw open the door.
 “Get out!” said he.
 “What, sir! Oh, Heaven bless you!”
-Page 109, Paragraph 1: “No more words. Get out!”
+Page 109: “No more words. Get out!”
 And no more words were needed. There was a rush, a clatter upon the stairs, the bang of a
 door, and the crisp rattle of running footfalls from the street.
 “After all, Watson,” said **holmes**, reaching up his hand for his clay pipe, “I am not
@@ -3735,7 +3735,7 @@ up out of their beds, I presume that it is something very pressing which they ha
 communicate. Should it prove to be an interesting case, you would, I am sure, wish to
 follow it from the outset. I thought, at any rate, that I should call you and give you the
 chance.”
-Page 110, Paragraph 1: “My dear fellow, I would not miss it for anything.”
+Page 110: “My dear fellow, I would not miss it for anything.”
 I had no keener pleasure than in following **holmes** in his professional investigations, and
 in admiring the rapid deductions, as swift as intuitions, and yet always founded on a
 logical basis with which he unravelled the problems which were submitted to him. I
@@ -3776,7 +3776,7 @@ heard of you, Mr. **holmes**; I have heard of you from Mrs. Farintosh, whom you 
 the hour of her sore need. It was from her that I had your address. Oh, sir, do you not think
 that you could help me, too, and at least throw a little light through the dense darkness
 which surrounds me? At present it is out of my power to reward you for your services, but
-Page 111, Paragraph 1: in a month or six weeks I shall be married, with the control of my own income, and then at
+Page 111: in a month or six weeks I shall be married, with the control of my own income, and then at
 least you shall not find me ungrateful.”
 **holmes** turned to his desk and, unlocking it, drew out a small case-book, which he
 consulted.
@@ -3819,7 +3819,7 @@ entirely while we resided with him, with a provision that a certain annual sum s
 allowed to each of us in the event of our marriage. Shortly after our return to England my
 mother died—she was killed eight years ago in a railway accident near Crewe. Dr. Roylott
 then abandoned his attempts to establish himself in practice in London and took us to live
-Page 112, Paragraph 1: with him in the old ancestral house at Stoke Moran. The money which my mother had left
+Page 112: with him in the old ancestral house at Stoke Moran. The money which my mother had left
 was enough for all our wants, and there seemed to be no obstacle to our happiness.
 “But a terrible change came over our stepfather about this time. Instead of making friends
 and exchanging visits with our neighbors, who had at first been overjoyed to see a Roylott
@@ -3862,7 +3862,7 @@ The bedrooms in this wing are on the ground floor, the sitting-rooms being in th
 block of the buildings. Of these bedrooms the first is Dr. Roylott’s, the second my sister’s,
 and the third my own. There is no communication between them, but they all open out
 into the same corridor. Do I make myself plain?”
-Page 113, Paragraph 1: “Perfectly so.”
+Page 113: “Perfectly so.”
 “The windows of the three rooms open out upon the lawn. That fatal night Dr. Roylott had
 gone to his room early, though we knew that he had not retired to rest, for my sister was
 troubled by the smell of the strong Indian cigars which it was his custom to smoke. She
@@ -3901,7 +3901,7 @@ hinges. I stared at it horror-stricken, not knowing what was about to issue from
 light of the corridor-lamp I saw my sister appear at the opening, her face blanched with
 terror, her hands groping for help, her whole figure swaying to and fro like that of a
 drunkard. I ran to her and threw my arms round her, but at that moment her knees seemed
-Page 114, Paragraph 1: to give way and she fell to the ground. She writhed as one who is in terrible pain, and her
+Page 114: to give way and she fell to the ground. She writhed as one who is in terrible pain, and her
 limbs were dreadfully convulsed. At first I thought that she had not recognized me, but as
 I bent over her she suddenly shrieked out in a voice which I shall never forget, ‘Oh, my
 God! Helen! It was the band! The speckled band!’ There was something else which she
@@ -3941,7 +3941,7 @@ frightened her I cannot imagine.”
 “Sometimes I have thought that it was merely the wild talk of delirium, sometimes that it
 may have referred to some band of people, perhaps to these very gypsies in the plantation.
 I do not know whether the spotted handkerchiefs which so many of them wear over their
-Page 115, Paragraph 1: heads might have suggested the strange adjective which she used.”
+Page 115: heads might have suggested the strange adjective which she used.”
 **holmes** shook his head like a man who is far from being satisfied.
 “These are very deep waters,” said he; “pray go on with your narrative.”
 “Two years have passed since then, and my life has been until lately lonelier than ever. A
@@ -3980,7 +3980,7 @@ We have a housekeeper now, but she is old and foolish, and I could easily get he
 the way.”
 “Excellent. You are not averse to this trip, Watson?”
 “By no means.”
-Page 116, Paragraph 1: “Then we shall both come. What are you going to do yourself?”
+Page 116: “Then we shall both come. What are you going to do yourself?”
 “I have one or two things which I would wish to do now that I am in town. But I shall
 return by the twelve o’clock train, so as to be there in time for your coming.”
 “And you may expect us early in the afternoon. I have myself some small business matters
@@ -4020,7 +4020,7 @@ breadth seemed to span it across from side to side. A large face, seared with a 
 wrinkles, burned yellow with the sun, and marked with every evil passion, was turned
 from one to the other of us, while his deep-set, bile-shot eyes, and his high, thin, fleshless
 nose, gave him somewhat the resemblance to a fierce old bird of prey.
-Page 117, Paragraph 1: “Which of you is **holmes**?” asked this apparition.
+Page 117: “Which of you is **holmes**?” asked this apparition.
 “My name, sir; but you have the advantage of me,” said my companion quietly.
 “I am Dr. Grimesby Roylott, of Stoke Moran.”
 “Indeed, Doctor,” said **holmes** blandly. “Pray take a seat.”
@@ -4058,7 +4058,7 @@ It was nearly one o’clock when Sherlock **holmes** returned from his excursion
 his hand a sheet of blue paper, scrawled over with notes and figures.
 “I have seen the will of the deceased wife,” said he. “To determine its exact meaning I
 have been obliged to work out the present prices of the investments with which it is
-Page 118, Paragraph 1: concerned. The total income, which at the time of the wife’s death was little short of 1100
+Page 118: concerned. The total income, which at the time of the wife’s death was little short of 1100
 pounds, is now, through the fall in agricultural prices, not more than 750 pounds. Each
 daughter can claim an income of 250 pounds, in case of marriage. It is evident, therefore,
 that if both girls had married, this beauty would have had a mere pittance, while even one
@@ -4099,7 +4099,7 @@ Our client of the morning had hurried forward to meet us with a face which spoke
 “I have been waiting so eagerly for you,” she cried, shaking hands with us warmly. “All
 has turned out splendidly. Dr. Roylott has gone to town, and it is unlikely that he will be
 back before evening.”
-Page 119, Paragraph 1: “We have had the pleasure of making the doctor’s acquaintance,” said **holmes**, and in a
+Page 119: “We have had the pleasure of making the doctor’s acquaintance,” said **holmes**, and in a
 few words he sketched out what had occurred. Miss Stoner turned white to the lips as she
 listened.
 “Good heavens!” she cried, “he has followed me, then.”
@@ -4139,7 +4139,7 @@ one could pass these shutters if they were bolted. Well, we shall see if the ins
 any light upon the matter.”
 A small side door led into the whitewashed corridor from which the three bedrooms
 opened. **holmes** refused to examine the third chamber, so we passed at once to the second,
-Page 120, Paragraph 1: that in which Miss Stoner was now sleeping, and in which her sister had met with her fate.
+Page 120: that in which Miss Stoner was now sleeping, and in which her sister had met with her fate.
 It was a homely little room, with a low ceiling and a gaping fireplace, after the fashion of
 old country-houses. A brown chest of drawers stood in one corner, a narrow white-
 counterpaned bed in another, and a dressing-table on the left-hand side of the window.
@@ -4178,7 +4178,7 @@ outside air!”
 “They seem to have been of a most interesting character—dummy bell-ropes, and
 ventilators which do not ventilate. With your permission, Miss Stoner, we shall now carry
 our researches into the inner apartment.”
-Page 121, Paragraph 1: Dr. Grimesby Roylott’s chamber was larger than that of his step-daughter, but was as
+Page 121: Dr. Grimesby Roylott’s chamber was larger than that of his step-daughter, but was as
 plainly furnished. A camp-bed, a small wooden shelf full of books, mostly of a technical
 character an armchair beside the bed, a plain wooden chair against the wall, a round table,
 and a large iron safe were the principal things which met the eye. **holmes** walked slowly
@@ -4215,7 +4215,7 @@ in every respect.”
 compliance.”
 “I assure you that I am in your hands.”
 “In the first place, both my friend and I must spend the night in your room.”
-Page 122, Paragraph 1: Both Miss Stoner and I gazed at him in astonishment.
+Page 122: Both Miss Stoner and I gazed at him in astonishment.
 “Yes, it must be so. Let me explain. I believe that that is the village inn over there?”
 “Yes, that is the Crown.”
 “Very good. Your windows would be visible from there?”
@@ -4253,7 +4253,7 @@ sudden light spring up among the trees as the lamp was lit in one of the sitting
 “Do you know, Watson,” said **holmes** as we sat together in the gathering darkness, “I have
 really some scruples as to taking you to-night. There is a distinct element of danger.”
 “Can I be of assistance?”
-Page 123, Paragraph 1: “Your presence might be invaluable.”
+Page 123: “Your presence might be invaluable.”
 “Then I shall certainly come.”
 “It is very kind of you.”
 “You speak of danger. You have evidently seen more in these rooms than was visible to
@@ -4290,7 +4290,7 @@ heads of their profession. This man strikes even deeper, but I think, Watson, th
 be able to strike deeper still. But we shall have horrors enough before the night is over; for
 goodness’ sake let us have a quiet pipe and turn our minds for a few hours to something
 more cheerful.”
-Page 124, Paragraph 1: About nine o’clock the light among the trees was extinguished, and all was dark in the
+Page 124: About nine o’clock the light among the trees was extinguished, and all was dark in the
 direction of the Manor House. Two hours passed slowly away, and then, suddenly, just at
 the stroke of eleven, a single bright light shone out right in front of us.
 “That is our signal,” said **holmes**, springing to his feet; “it comes from the middle
@@ -4330,7 +4330,7 @@ How shall I ever forget that dreadful vigil? I could not hear a sound, not even 
 of a breath, and yet I knew that my companion sat open-eyed, within a few feet of me, in
 the same state of nervous tension in which I was myself. The shutters cut off the least ray
 of light, and we waited in absolute darkness.
-Page 125, Paragraph 1: From outside came the occasional cry of a night-bird, and once at our very window a long
+Page 125: From outside came the occasional cry of a night-bird, and once at our very window a long
 drawn catlike whine, which told us that the cheetah was indeed at liberty. Far away we
 could hear the deep tones of the parish clock, which boomed out every quarter of an hour.
 How long they seemed, those quarters! Twelve struck, and one and two and three, and still
@@ -4372,7 +4372,7 @@ entered he made neither sound nor motion.
 “The band! the speckled band!” whispered **holmes**.
 I took a step forward. In an instant his strange headgear began to move, and there reared
 itself from among his hair the squat diamond-shaped head and puffed neck of a loathsome
-Page 126, Paragraph 1: serpent.
+Page 126: serpent.
 “It is a swamp adder!” cried **holmes**; “the deadliest snake in India. He has died within ten
 seconds of being bitten. Violence does, in truth, recoil upon the violent, and the schemer
 falls into the pit which he digs for another. Let us thrust this creature back into its den, and
@@ -4416,7 +4416,7 @@ must fall a victim.
 “I had come to these conclusions before ever I had entered his room. An inspection of his
 chair showed me that he had been in the habit of standing on it, which of course would be
 necessary in order that he should reach the ventilator. The sight of the safe, the saucer of
-Page 127, Paragraph 1: milk, and the loop of whipcord were enough to finally dispel any doubts which may have
+Page 127: milk, and the loop of whipcord were enough to finally dispel any doubts which may have
 remained. The metallic clang heard by Miss Stoner was obviously caused by her
 stepfather hastily closing the door of his safe upon its terrible occupant. Having once made
 up my mind, you know the steps which I took in order to put the matter to the proof. I
@@ -4458,7 +4458,7 @@ of the room and closed the door tightly behind him.
 “I’ve got him here,” he whispered, jerking his thumb over his shoulder; “he’s all right.”
 “What is it, then?” I asked, for his manner suggested that it was some strange creature
 which he had caged up in my room.
-Page 129, Paragraph 1: “This has been done,” said I, examining the wound, “by a very heavy and sharp
+Page 129: “This has been done,” said I, examining the wound, “by a very heavy and sharp
 instrument.”
 “A thing like a cleaver,” said he.
 “An accident, I presume?”
@@ -4496,7 +4496,7 @@ Sherlock **holmes** was, as I expected, lounging about his sittingroom in his dr
 reading the agony column of The Times and smoking his before-breakfast pipe, which was
 composed of all the plugs and dottles left from his smokes of the day before, all carefully
 dried and collected on the corner of the mantelpiece. He received us in his quietly genial
-Page 130, Paragraph 1: fashion, ordered fresh rashers and eggs, and joined us in a hearty meal. When it was
+Page 130: fashion, ordered fresh rashers and eggs, and joined us in a hearty meal. When it was
 concluded he settled our new acquaintance upon the sofa, placed a pillow beneath his
 head, and laid a glass of brandy and water within his reach.
 “It is easy to see that your experience has been no common one, Mr. Hatherley,” said he.
@@ -4538,7 +4538,7 @@ it was who gave me so good a character?’
 “‘Well, perhaps it is better that I should not tell you that just at this moment. I have it from
 the same source that you are both an orphan and a bachelor and are residing alone in
 London.’
-Page 133, Paragraph 1: “‘I quite follow you,’ said I. ‘The only point which I could not quite understand was what
+Page 133: “‘I quite follow you,’ said I. ‘The only point which I could not quite understand was what
 use you could make of a hydraulic press in excavating fuller’s-earth, which, as I
 understand, is dug out like gravel from a pit.’
 “‘Ah!’ said he carelessly, ‘we have our own process. We compress the earth into bricks, so
@@ -4578,7 +4578,7 @@ statement.”
 that it was only seven miles, but I should think, from the rate that we seemed to go, and
 from the time that we took, that it must have been nearer twelve. He sat at my side in
 silence all the time, and I was aware, more than once when I glanced in his direction, that
-Page 138, Paragraph 1: ruffian who pursued me. If she were ill-used, then at any risks I was determined to go back
+Page 138: ruffian who pursued me. If she were ill-used, then at any risks I was determined to go back
 to her assistance. The thought had hardly flashed through my mind before he was at the
 door, pushing his way past her; but she threw her arms round him and tried to hold him
 back.
@@ -4621,7 +4621,7 @@ We both sat in silence for some little time after listening to this extraordinar
 Then Sherlock **holmes** pulled down from the shelf one of the ponderous commonplace
 books in which he placed his cuttings.
 “Here is an advertisement which will interest you,” said he. “It appeared in all the papers
-Page 139, Paragraph 1: about a year ago. Listen to this: ‘Lost, on the 9th inst., Mr. Jeremiah Hayling, aged twenty-
+Page 139: about a year ago. Listen to this: ‘Lost, on the 9th inst., Mr. Jeremiah Hayling, aged twenty-
 six, a hydraulic engineer. Left his lodgings at ten o’clock at night, and has not been heard
 of since. Was dressed in,’ etc., etc. Ha! That represents the last time that the colonel
 needed to have his machine overhauled, I fancy.”
@@ -4659,7 +4659,7 @@ did not notice the carriage go up any.”
 “Come,” cried the inspector, laughing; “it’s a very pretty diversity of opinion. We have
 boxed the compass among us. Who do you give your casting vote to?”
 “You are all wrong.”
-Page 140, Paragraph 1: “But we can’t all be.”
+Page 140: “But we can’t all be.”
 “Oh, yes, you can. This is my point.” He placed his finger in the centre of the circle. “This
 is where we shall find them.”
 “But the twelve-mile drive?” gasped Hatherley.
@@ -4698,7 +4698,7 @@ whitewashed building in front of us, spouting fire at every chink and window, wh
 garden in front three fire-engines were vainly striving to keep the flames under.
 “That’s it!” cried Hatherley, in intense excitement. “There is the gravel-drive, and there are
 the rose-bushes where I lay. That second window is the one that I jumped from.”
-Page 141, Paragraph 1: “Well, at least,” said **holmes**, “you have had your revenge upon them. There can be no
+Page 141: “Well, at least,” said **holmes**, “you have had your revenge upon them. There can be no
 question that it was your oil-lamp which, when it was crushed in the press, set fire to the
 wooden walls, though no doubt they were too excited in the chase after you to observe it
 at the time. Now keep your eyes open in this crowd for your friends of last night, though I
@@ -4741,7 +4741,7 @@ considerable share in clearing the matter up, I feel that no memoir of him would
 complete without some little sketch of this remarkable episode.
 It was a few weeks before my own marriage, during the days when I was still sharing
 rooms with **holmes** in Baker Street, that he came home from an afternoon stroll to find a
-Page 142, Paragraph 1: letter on the table waiting for him. I had remained indoors all day, for the weather had
+Page 142: letter on the table waiting for him. I had remained indoors all day, for the weather had
 taken a sudden turn to rain, with high autumnal winds, and the Jezail bullet which I had
 brought back in one of my limbs as a relic of my Afghan campaign throbbed with dull
 persistence. With my body in one easy-chair and my legs upon another, I had surrounded
@@ -4781,7 +4781,7 @@ connection with my wedding. Mr. Lestrade, of Scotland Yard, is acting already in
 matter, but he assures me that he sees no objection to your cooperation, and that he even
 thinks that it might be of some assistance. I will call at four o’clock in the afternoon, and,
 should you have any other engagement at that time, I hope that you will postpone it, as
-Page 143, Paragraph 1: this matter is of paramount importance. Yours faithfully, ST. SIMON.’
+Page 143: this matter is of paramount importance. Yours faithfully, ST. SIMON.’
 “It is dated from Grosvenor Mansions, written with a quill pen, and the noble lord has had
 the misfortune to get a smear of ink upon the outer side of his right little finger,” remarked
 **holmes** as he folded up the epistle.
@@ -4803,7 +4803,7 @@ that you had an inquiry on hand and that you disliked the intrusion of other mat
 “Oh, you mean the little problem of the Grosvenor Square furniture van. That is quite
 cleared up now—though, indeed, it was obvious from the first. Pray give me the results of
 your newspaper selections.”
-Page 144, Paragraph 1: “Here is the first notice which I can find. It is in the personal column of the Morning Post,
+Page 144: “Here is the first notice which I can find. It is in the personal column of the Morning Post,
 and dates, as you see, some weeks back: ‘A marriage has been arranged,’ it says, ‘and will,
 if rumour is correct, very shortly take place, between Lord Robert St. Simon, second son
 of the Duke of Balmoral, and Miss Hatty Doran, the only daughter of Aloysius Doran.
@@ -4843,7 +4843,7 @@ bride.”
 “They often vanish before the ceremony, and occasionally during the honeymoon; but I
 cannot call to mind anything quite so prompt as this. Pray let me have the details.”
 “I warn you that they are very incomplete.”
-Page 146, Paragraph 1: after four, I have no doubt that this will prove to be our noble client. Do not dream of
+Page 146: after four, I have no doubt that this will prove to be our noble client. Do not dream of
 going, Watson, for I very much prefer having a witness, if only as a check to my own
 memory.”
 “Lord Robert St. Simon,” announced our page-boy, throwing open the door. A gentleman
@@ -4882,7 +4882,7 @@ that I may arrive at my facts most directly by questioning you.”
 “Pray do so.”
 “When did you first meet Miss Hatty Doran?”
 “In San Francisco, a year ago.”
-Page 147, Paragraph 1: “You were travelling in the States?”
+Page 147: “You were travelling in the States?”
 “Yes.”
 “Did you become engaged then?”
 “No.”
@@ -4919,7 +4919,7 @@ became engaged to her, and have now married her.”
 “I really have made no inquiries on the subject.”
 “Very naturally not. Did you see Miss Doran on the day before the wedding?”
 “Yes.”
-Page 149, Paragraph 1: “She walked into the breakfast-room.”
+Page 149: “She walked into the breakfast-room.”
 “On your arm?”
 “No, alone. She was very independent in little matters like that. Then, after we had sat
 down for ten minutes or so, she rose hurriedly, muttered some words of apology, and left
@@ -4957,7 +4957,7 @@ what took place?”
 Since you ask me, however, I may say that it has occurred to me as possible that the
 excitement of this affair, the consciousness that she had made so immense a social stride,
 had the effect of causing some little nervous disturbance in my wife.”
-Page 150, Paragraph 1: “In short, that she had become suddenly deranged?”
+Page 150: “In short, that she had become suddenly deranged?”
 “Well, really, when I consider that she has turned her back—I will not say upon me, but
 upon so much that many have aspired to without success—I can hardly explain it in any
 other fashion.”
@@ -4995,7 +4995,7 @@ nautical appearance, and he carried a black canvas bag in his hand. With a short
 he seated himself and lit the cigar which had been offered to him.
 “What’s up, then?” asked **holmes** with a twinkle in his eye. “You look dissatisfied.”
 “And I feel dissatisfied. It is this infernal St. Simon marriage case. I can make neither head
-Page 151, Paragraph 1: nor tail of the business.”
+Page 151: nor tail of the business.”
 “Really! You surprise me.”
 “Who ever heard of such a mixed affair? Every clew seems to slip through my fingers. I
 have been at work upon it all day.”
@@ -5031,7 +5031,7 @@ his wardrobe. And pray what did you hope to arrive at through this?”
 you are not very practical with your deductions and your inferences. You have made two
 blunders in as many minutes. This dress does implicate Miss Flora Millar.”
 “And how?”
-Page 152, Paragraph 1: “In the dress is a pocket. In the pocket is a card-case. In the card-case is a note. And here
+Page 152: “In the dress is a pocket. In the pocket is a card-case. In the card-case is a note. And here
 is the very note.” He slapped it down upon the table in front of him. “Listen to this: ‘You
 will see me when all is ready. Come at once. F.H.M.’ Now my theory all along has been
 that Lady St. Simon was decoyed away by Flora Millar, and that she, with confederates,
@@ -5071,7 +5071,7 @@ unpacked with the help of a youth whom he had brought with him, and presently, t
 very great astonishment, a quite epicurean little cold supper began to be laid out upon our
 humble lodging-house mahogany. There were a couple of brace of cold woodcock, a
 pheasant, a pate de foie gras pie with a group of ancient and cobwebby bottles. Having
-Page 153, Paragraph 1: laid out all these luxuries, my two visitors vanished away, like the genii of the Arabian
+Page 153: laid out all these luxuries, my two visitors vanished away, like the genii of the Arabian
 Nights, with no explanation save that the things had been paid for and were ordered to this
 address.
 Just before nine o’clock Sherlock **holmes** stepped briskly into the room. His features were
@@ -5109,7 +5109,7 @@ with his eyes cast down and his hand thrust into the breast of his frock-coat, a
 offended dignity. The lady had taken a quick step forward and had held out her hand to
 him, but he still refused to raise his eyes. It was as well for his resolution, perhaps, for her
 pleading face was one which it was hard to resist.
-Page 155, Paragraph 1: do. Should I stop the service and make a scene in the church? I glanced at him again, and
+Page 155: do. Should I stop the service and make a scene in the church? I glanced at him again, and
 he seemed to know what I was thinking, for he raised his finger to his lips to tell me to be
 still. Then I saw him scribble on a piece of paper, and I knew that he was writing me a
 note. As I passed his pew on the way out I dropped my bouquet over to him, and he
@@ -5152,7 +5152,7 @@ frowning brow and a compressed lip to this long narrative.
 affairs in this public manner.”
 “Then you won’t forgive me? You won’t shake hands before I go?”
 “Oh, certainly, if it would give you any pleasure.” He put out his hand and coldly grasped
-Page 156, Paragraph 1: that which she extended to him.
+Page 156: that which she extended to him.
 “I had hoped,” suggested **holmes**, “that you would have joined us in a friendly supper.”
 “I think that there you ask a little too much,” responded his Lordship. “I may be forced to
 acquiesce in these recent developments, but I can hardly be expected to make merry over
@@ -5194,7 +5194,7 @@ of which he did not himself know. The initials were, of course, of the highest i
 but more valuable still was it to know that within a week he had settled his bill at one of
 the most select London hotels.”
 “How did you deduce the select?”
-Page 157, Paragraph 1: “By the select prices. Eight shillings for a bed and eight-pence for a glass of sherry
+Page 157: “By the select prices. Eight shillings for a bed and eight-pence for a glass of sherry
 pointed to one of the most expensive hotels. There are not many in London which charge
 at that rate. In the second one which I visited in Northumberland Avenue, I learned by an
 inspection of the book that Francis H. Moulton, an American gentleman, had left only the
@@ -5236,7 +5236,7 @@ his face into the most extraordinary contortions.
 “What on earth can be the matter with him?” I asked. “He is looking up at the numbers of
 the houses.”
 “I believe that he is coming here,” said **holmes**, rubbing his hands.
-Page 158, Paragraph 1: “Here?”
+Page 158: “Here?”
 “Yes; I rather think he is coming to consult me professionally. I think that I recognize the
 symptoms. Ha! did I not tell you?” As he spoke, the man, puffing and blowing, rushed at
 our door and pulled at our bell until the whole house resounded with the clanging.
@@ -5277,7 +5277,7 @@ better now, and I will put the facts before you as shortly and yet as clearly as
 “It is, of course, well known to you that in a successful banking business as much depends
 upon our being able to find remunerative investments for our funds as upon our increasing
 our connection and the number of our depositors. One of our most lucrative means of
-Page 160, Paragraph 1: reclaim it. It is a pure matter of form. Is the security sufficient?’
+Page 160: reclaim it. It is a pure matter of form. Is the security sufficient?’
 “‘Ample.’
 “‘You understand, Mr. Holder, that I am giving you a strong proof of the confidence which
 I have in you, founded upon all that I have heard of you. I rely upon you not only to be
@@ -5320,7 +5320,7 @@ his face. I have never denied him a wish. Perhaps it would have been better for 
 had I been sterner, but I meant it for the best.
 “It was naturally my intention that he should succeed me in my business, but he was not of
 a business turn. He was wild, wayward, and, to speak the truth, I could not trust him in the
-Page 161, Paragraph 1: handling of large sums of money. When he was young he became a member of an
+Page 161: handling of large sums of money. When he was young he became a member of an
 aristocratic club, and there, having charming manners, he was soon the intimate of a
 number of men with long purses and expensive habits. He learned to play heavily at cards
 and to squander money on the turf, until he had again and again to come to me and
@@ -5361,7 +5361,7 @@ it.
 with the key of the box-room cupboard.’
 “He often had a wild way of talking, so that I thought little of what he said. He followed
 me to my room, however, that night with a very grave face.
-Page 162, Paragraph 1: “‘Look here, dad,’ said he with his eyes cast down, ‘can you let me have 200 pounds?’
+Page 162: “‘Look here, dad,’ said he with his eyes cast down, ‘can you let me have 200 pounds?’
 “‘No, I cannot!’ I answered sharply. ‘I have been far too generous with you in money
 matters.’
 “‘You have been very kind,’ said he, ‘but I must have this money, or else I can never show
@@ -5400,7 +5400,7 @@ out of bed, all palpitating with fear, and peeped round the comer of my dressing
 door.
 “‘Arthur!’ I screamed, ‘you villain! you thief! How dare you touch that coronet?’
 “The gas was half up, as I had left it, and my unhappy boy, dressed only in his shirt and
-Page 164, Paragraph 1: was made at once not only of his person but of his room and of every portion of the house
+Page 164: was made at once not only of his person but of his room and of every portion of the house
 where he could possibly have concealed the gems; but no trace of them could be found,
 nor would the wretched boy open his mouth for all our persuasions and our threats. This
 morning he was removed to a cell, and I, after going through all the police formalities,
@@ -5437,7 +5437,7 @@ of the noise which awoke you from your sleep?”
 “They considered that it might be caused by Arthur’s closing his bedroom door.”
 “A likely story! As if a man bent on felony would slam his door so as to wake a
 household. What did they say, then, of the disappearance of these gems?”
-Page 165, Paragraph 1: “They are still sounding the planking and probing the furniture in the hope of finding
+Page 165: “They are still sounding the planking and probing the furniture in the hope of finding
 them.”
 “Have they thought of looking outside the house?”
 “Yes, they have shown extraordinary energy. The whole garden has already been minutely
@@ -5480,7 +5480,7 @@ the fire until he should return. We were sitting there in silence when the door 
 young lady came in. She was rather above the middle height, slim, with dark hair and
 eyes, which seemed the darker against the absolute pallor of her skin. I do not think that I
 have ever seen such deadly paleness in a woman’s face. Her lips, too, were bloodless, but
-Page 166, Paragraph 1: her eyes were flushed with crying. As she swept silently into the room she impressed me
+Page 166: her eyes were flushed with crying. As she swept silently into the room she impressed me
 with a greater sense of grief than the banker had done in the morning, and it was the more
 striking in her as she was evidently a woman of strong character, with immense capacity
 for self-restraint. Disregarding my presence, she went straight to her uncle and passed her
@@ -5517,7 +5517,7 @@ addressing Miss Mary Holder. Might I ask you a question or two?”
 that she had been out to see him?”
 “Yes, and she was the girl who waited in the drawing-room. and who may have heard
 uncle’s remarks about the coronet.”
-Page 167, Paragraph 1: “I see. You infer that she may have gone out to tell her sweetheart, and that the two may
+Page 167: “I see. You infer that she may have gone out to tell her sweetheart, and that the two may
 have planned the robbery.”
 “But what is the good of all these vague theories,” cried the banker impatiently, “when I
 have told you that I saw Arthur with the coronet in his hands?”
@@ -5555,7 +5555,7 @@ out the diadem he laid it upon the table. It was a magnificent specimen of the j
 art, and the thirty-six stones were the finest that I have ever seen. At one side of the
 coronet was a cracked edge, where a corner holding three gems had been torn away.
 “Now, Mr. Holder,” said **holmes**, “here is the corner which corresponds to that which has
-Page 168, Paragraph 1: been so unfortunately lost. Might I beg that you will break it off.”
+Page 168: been so unfortunately lost. Might I beg that you will break it off.”
 The banker recoiled in horror. “I should not dream of trying,” said he.
 “Then I will.” **holmes** suddenly bent his strength upon it, but without result. “I feel it give
 a little,” said he; “but, though I am exceptionally strong in the fingers, it would take me all
@@ -5593,7 +5593,7 @@ It was obvious to me that my companion’s mind was now made up about the case,
 although what his conclusions were was more than I could even dimly imagine. Several
 times during our homeward journey I endeavored to sound him upon the point, but he
 always glided away to some other topic, until at last I gave it over in despair. It was not yet
-Page 170, Paragraph 1: “I do not know what I have done to be so severely tried,” said he. “Only two days ago I
+Page 170: “I do not know what I have done to be so severely tried,” said he. “Only two days ago I
 was a happy and prosperous man, without a care in the world. Now I am left to a lonely
 and dishonored age. One sorrow comes close upon the heels of another. My niece, Mary,
 has deserted me.”
@@ -5631,7 +5631,7 @@ gems to his bosom.
 who has carried himself in this matter as I should be proud to see my own son do, should I
 ever chance to have one.”
 “Then it was not Arthur who took them?”
-Page 172, Paragraph 1: “As long as she was on the scene he could not take any action without a horrible exposure
+Page 172: “As long as she was on the scene he could not take any action without a horrible exposure
 of the woman whom he loved. But the instant that she was gone he realized how crushing
 a misfortune this would be for you, and how all-important it was to set it right. He rushed
 down, just as he was, in his bare feet, opened the window, sprang out into the snow, and
@@ -5675,7 +5675,7 @@ faced round, where the snow was cut up as though there had been a struggle, and,
 where a few drops of blood had fallen, to show me that I was not mistaken. Boots had then
 run down the lane, and another little smudge of blood showed that it was he who had been
 hurt. When he came to the highroad at the other end, I found that the pavement had been
-Page 174, Paragraph 1: at 1000 pounds apiece. Then I looked in upon your son, told him that all was right, and
+Page 174: at 1000 pounds apiece. Then I looked in upon your son, told him that all was right, and
 eventually got to my bed about two o’clock, after what I may call a really hard day’s
 work.”
 “A day which has saved England from a great public scandal,” said the banker, rising.
@@ -5717,7 +5717,7 @@ It was a cold morning of the early spring, and we sat after breakfast on either 
 cheery fire in the old room at Baker Street. A thick fog rolled down between the lines of
 dun-colored houses, and the opposing windows loomed like dark, shapeless blurs through
 the heavy yellow wreaths. Our gas was lit and shone on the white cloth and glimmer of
-Page 175, Paragraph 1: china and metal, for the table had not been cleared yet. Sherlock **holmes** had been silent
+Page 175: china and metal, for the table had not been cleared yet. Sherlock **holmes** had been silent
 all the morning, dipping continuously into the advertisement columns of a succession of
 papers until at last, having apparently given up his search, he had emerged in no very
 sweet temper to lecture me upon my literary shortcomings.
@@ -5757,7 +5757,7 @@ As he spoke the door opened and a young lady entered the room. She was plainly b
 neatly dressed, with a bright, quick face, freckled like a plover’s egg, and with the brisk
 manner of a woman who has had her own way to make in the world.
 “You will excuse my troubling you, I am sure,” said she, as my companion rose to greet
-Page 176, Paragraph 1: her, “but I have had a very strange experience, and as I have no parents or relations of any
+Page 176: her, “but I have had a very strange experience, and as I have no parents or relations of any
 sort from whom I could ask advice, I thought that perhaps you would be kind enough to
 tell me what I should do.”
 “Pray take a seat, Miss Hunter. I shall be happy to do anything that I can to serve you.”
@@ -5797,7 +5797,7 @@ with such attractions and accomplishments?’
 German, music, and drawing —’
 “‘Tut, tut!’ he cried. ‘This is all quite beside the question. The point is, have you or have
 you not the bearing and deportment of a lady? There it is in a nutshell. If you have not,
-Page 177, Paragraph 1: you are not fined for the rearing of a child who may some day play a considerable part in
+Page 177: you are not fined for the rearing of a child who may some day play a considerable part in
 the history of the country. But if you have why, then, how could any gentleman ask you to
 condescend to accept anything under the three figures? Your salary with me, madam,
 would commence at 100 pounds a year.’
@@ -5836,7 +5836,7 @@ object to our little whim. Heh?’
 “‘Oh, no.’
 “‘Or to cut your hair quite short before you come to us?’
 “I could hardly believe my ears. As you may observe, Mr. **holmes**, my hair is somewhat
-Page 178, Paragraph 1: luxuriant, and of a rather peculiar tint of chestnut. It has been considered artistic. I could
+Page 178: luxuriant, and of a rather peculiar tint of chestnut. It has been considered artistic. I could
 not dream of sacrificing it in this offhand fashion.
 “‘I am afraid that that is quite impossible,’ said I. He had been watching me eagerly out of
 his small eyes, and I could see a shadow pass over his face as I spoke.
@@ -5878,7 +5878,7 @@ daughter Alice (now in Philadelphia), which would, I should think, fit you very 
 Then, as to sitting here or there,or amusing yourself in any manner indicated, that need
 cause you no inconvenience. As regards your hair, it is no doubt a pity, especially as I
 could not help remarking its beauty during our short interview, but I am afraid that I must
-Page 179, Paragraph 1: remain firm upon this point, and I only hope that the increased salary may recompense
+Page 179: remain firm upon this point, and I only hope that the increased salary may recompense
 you for the loss. Your duties, as far as the child is concerned, are very light. Now do try to
 come, and I shall meet you with the dog-cart at Winchester. Let me know your train.
 “Yours faithfully, JEPHRO RUCASTLE.’
@@ -5917,7 +5917,7 @@ grateful words to **holmes** she bade us both good-night and bustled off upon he
 “At least,” said I as we heard her quick, firm steps descending the stairs, “she seems to be
 a young lady who is very well able to take care of herself.”
 “And she would need to be,” said **holmes** gravely. “I am much mistaken if we do not hear
-Page 180, Paragraph 1: from her before many days are past.”
+Page 180: from her before many days are past.”
 It was not very long before my friend’s prediction was fulfilled. A fortnight went by,
 during which I frequently found my thoughts turning in her direction and wondering what
 strange side-alley of human experience this lonely woman had strayed into. The unusual
@@ -5957,7 +5957,7 @@ out from amid the light green of the new foliage.
 fogs of Baker Street.
 But **holmes** shook his head gravely.
 “Do you know, Watson,” said he, “that it is one of the curses of a mind with a turn like
-Page 181, Paragraph 1: mine that I must look at everything with reference to my own special subject. You look at
+Page 181: mine that I must look at everything with reference to my own special subject. You look at
 these scattered houses, and you are impressed by their beauty. I look at them, and the only
 thought which comes to me is a feeling of their isolation and of the impunity with which
 crime may be committed there.”
@@ -5997,7 +5997,7 @@ purpose.”
 “Let us have everything in its due order.” **holmes** thrust his long thin legs out towards the
 fire and composed himself to listen.
 “In the first place, I may say that I have met, on the whole, with no actual ill-treatment
-Page 182, Paragraph 1: from Mr. and Mrs. Rucastle. It is only fair to them to say that. But I cannot understand
+Page 182: from Mr. and Mrs. Rucastle. It is only fair to them to say that. But I cannot understand
 them, and I am not easy in my mind about them.”
 “What can you not understand?”
 “Their reasons for their conduct. But you shall have it all just as it occurred. When I came
@@ -6040,7 +6040,7 @@ not.”
 “I shall try not to miss anything of importance. The one unpleasant thing about the house,
 which struck me at once, was the appearance and conduct of the servants. There are only
 two, a man and his wife. Toller, for that is his name, is a rough, uncouth man, with
-Page 183, Paragraph 1: grizzled hair and whiskers, and a perpetual smell of drink. Twice since I have been with
+Page 183: grizzled hair and whiskers, and a perpetual smell of drink. Twice since I have been with
 them he has been quite drunk, and yet Mr. Rucastle seemed to take no notice of it. His
 wife is a very tall and strong woman with a sour face, as silent as Mrs. Rucastle and much
 less amiable. They are a most unpleasant couple, but fortunately I spend most of my time
@@ -6084,7 +6084,7 @@ of my laughter, I put my handkerchief up to my eyes, and was able with a little
 management to see all that there was behind me. I confess that I was disappointed. There
 was nothing. At least that was my first impression. At the second glance, however, I
 perceived that there was a man standing in the Southampton Road, a small bearded man in
-Page 184, Paragraph 1: a gray suit, who seemed to be looking in my direction. The road is an important highway,
+Page 184: a gray suit, who seemed to be looking in my direction. The road is an important highway,
 and there are usually people there. This man, however, was leaning against the railings
 which bordered our field and was looking earnestly up. I lowered my handkerchief and
 glanced at Mrs. Rucastle to find her eyes fixed upon me with a most searching gaze. She
@@ -6124,7 +6124,7 @@ rapt in the peaceful beauty of the scene, when I was aware that something was mo
 under the shadow of the copper beeches. As it emerged into the moonshine I saw what it
 was. It was a giant dog, as large as a calf, tawny tinted, with hanging jowl, black muzzle,
 and huge projecting bones. It walked slowly across the lawn and vanished into the shadow
-Page 185, Paragraph 1: upon the other side. That dreadful sentinel sent a chill to my heart which I do not think
+Page 185: upon the other side. That dreadful sentinel sent a chill to my heart which I do not think
 that any burglar could have done.
 “And now I have a very strange experience to tell you. I had, as you know, cut off my hair
 in London, and I had placed it in a great coil at the bottom of my trunk. One evening, after
@@ -6167,7 +6167,7 @@ suite of spare rooms up there, and one of them has the shutters up.’
 dear me! what an observant young lady we have come upon. Who would have believed it?
 Who would have ever believed it?’ He spoke in a jesting tone, but there was no jest in his
 eyes as he looked at me. I read suspicion there and annoyance, but no jest.
-Page 186, Paragraph 1: “Well, Mr. **holmes**, from the moment that I understood that there was something about
+Page 186: “Well, Mr. **holmes**, from the moment that I understood that there was something about
 that suite of rooms which I was not to know, I was all on fire to go over them. It was not
 mere curiosity, though I have my share of that. It was more a feeling of duty—a feeling
 that some good might come from my penetrating to this place. They talk of woman’s
@@ -6209,7 +6209,7 @@ eerie in this dim light that I was frightened and ran out again. Oh, it is so dr
 there!’
 “‘Only that?’ said he, looking at me keenly.
 “‘Why, what did you think?’ I asked.
-Page 187, Paragraph 1: “‘Why do you think that I lock this door?’
+Page 187: “‘Why do you think that I lock this door?’
 “‘I am sure that I do not know.’
 “‘It is to keep people out who have no business there. Do you see?’ He was still smiling in
 the most amiable manner.
@@ -6249,7 +6249,7 @@ Miss Hunter. Do you think that you could perform one more feat? I should not ask
 you if I did not think you a quite exceptional woman.”
 “I will try. What is it?”
 “We shall be at the Copper Beeches by seven o’clock, my friend and I. The Rucastles will
-Page 188, Paragraph 1: be gone by that time, and Toller will, we hope, be incapable. There only remains Mrs.
+Page 188: be gone by that time, and Toller will, we hope, be incapable. There only remains Mrs.
 Toller, who might give the alarm. If you could send her into the cellar on some errand, and
 then turn the key upon her, you would facilitate matters immensely.”
 “I will do it.”
@@ -6290,7 +6290,7 @@ cellar,” said she. “Her husband lies snoring on the kitchen rug. Here are hi
 are the duplicates of Mr. Rucastle’s.”
 “You have done well indeed!” cried **holmes** with enthusiasm. “Now lead the way, and we
 shall soon see the end of this black business.”
-Page 189, Paragraph 1: We passed up the stair, unlocked the door, followed on down a passage, and found
+Page 189: We passed up the stair, unlocked the door, followed on down a passage, and found
 ourselves in front of the barricade which Miss Hunter had described. **holmes** cut the cord
 and removed the transverse bar. Then he tried the various keys in the lock, but without
 success. No sound came from within, and at the silence **holmes**’s face clouded over.
@@ -6329,7 +6329,7 @@ with a red face and shaking limbs came staggering out at a side door.
 “My God!” he cried. “Someone has loosed the dog. It’s not been fed for two days. Quick,
 quick, or it’ll be too late!”
 **holmes** and I rushed out and round the angle of the house, with Toller hurrying behind us.
-Page 190, Paragraph 1: There was the huge famished brute, its black muzzle buried in Rucastle’s throat, while he
+Page 190: There was the huge famished brute, its black muzzle buried in Rucastle’s throat, while he
 writhed and screamed upon the ground. Running up, I blew its brains out, and it fell over
 with its keen white teeth still meeting in the great creases of his neck. With much labour
 we separated them and carried him, living but horribly mangled, into the house. We laid
@@ -6370,7 +6370,7 @@ persistence of Mr. Fowler.”
 “But Mr. Fowler being a persevering man, as a good seaman should be, blockaded the
 house, and having met you succeeded by certain arguments, metallic or otherwise, in
 convincing you that your interests were the same as his.”
-Page 191, Paragraph 1: “Mr. Fowler was a very kind-spoken, free-handed gentleman,” said Mrs. Toller serenely.
+Page 191: “Mr. Fowler was a very kind-spoken, free-handed gentleman,” said Mrs. Toller serenely.
 “And in this way he managed that your good man should have no want of drink, and that a
 ladder should be ready at the moment when your master had gone out.”
 “You have it, sir, just as it happened.”
