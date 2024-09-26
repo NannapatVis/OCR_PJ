@@ -17,7 +17,7 @@ import pdfplumber
 tess.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # Default keywords (can be left empty if you want to force input from Terminal)
-keywords = ['holmes']  
+keywords = ['Mary Jane']  
 
 # Check if keywords are empty or contain only empty strings
 if not keywords or all(kw.strip() == '' for kw in keywords):
